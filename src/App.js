@@ -1,18 +1,20 @@
 import React, { Component, useState } from 'react';
 import { GridGenerator, HexGrid, Layout, Path, Hexagon, Text, Pattern, Hex } from 'react-hexgrid';
+import Select from 'react-select';
 import './App.css';
 
 
+const options = [
+  { value: 'lightningStrike', label: 'Lightning Strike' },
+  { value: 'frostWave', label: 'Frost Wave' },
+  { value: 'whirlwind', label: 'Whirlwind' },
+];
 
 function  App() {
   const [searchQuery, setSearchQuery] = useState('');
+  const [selectedOption, setSelectedOption] = useState(null);
 
-  const handleSearch = (event) => {
-    setSearchQuery(event.target.value);
-  };
-    const hexagonSize = { x: 5, y: 5 };
-    const imageWidth = 20;
-    const imageHeight = 20;
+    const hexagonSize = { x: 8, y: 8 };
     const viewBox = `-50 -50 100 100`;
     let hexagonData = [
       { q: -3, r: 0, s: 3 },
@@ -60,18 +62,28 @@ function  App() {
       { q: -4, r: 6, s: 4 },
       { q: -3, r: 6, s: 3 },
       { q: -2, r: 6, s: 2 }];
+//Write an algo to generate the hexagonData array
+
+const handleRuneSelection = (event) => {
+  return event.target.setAttribute("fill", `url(#${selectedOption.value})`);
+};
 
     return (
       <div className="layer">
         <div className="App">
           <div className="search">
-          <input type="text" placeholder="Search" class="search-bar"/>
+        <Select
+        className="my-select"
+        classNamePrefix="my-select"
+        defaultValue={selectedOption}
+        onChange={setSelectedOption}
+        options={options}
+      />
           </div>
           <div className='grid'>
-            <HexGrid width={2000} height={2000} viewBox={viewBox}>
-              {/* Main grid with bit hexagons, all manual */}
-              <Layout size={hexagonSize} flat={false} spacing={1.1} origin={{ x: 10, y: -25 }}>
-                {hexagonData.map((hex, i) => <Hexagon key={i} q={hex.q} r={hex.r} s={hex.s} onClick={(event) => { console.log(event.target) }} />)}
+            <HexGrid viewBox={viewBox}>
+              <Layout size={hexagonSize} flat={false} spacing={1.1} origin={{ x: 15, y: -40 }}>
+                {hexagonData.map((hex, i) => <Hexagon key={i} q={hex.q} r={hex.r} s={hex.s} onClick={(event) => { handleRuneSelection(event) }} />)}
               </Layout>
 
               <Pattern id="lightningStrike" link="https://undecember.thein.ru/image/skill/Icon_Skill_LightningHit_01.png" size={hexagonSize}>
