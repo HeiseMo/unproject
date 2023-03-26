@@ -7,7 +7,7 @@ import './App.css';
 const options = [
   { value: 'lightningStrike', label: 'Lightning Strike' },
   { value: 'frostWave', label: 'Frost Wave' },
-  { value: 'whirlwind', label: 'Whirlwind' },
+  { value: 'shoutOfTerror', label: 'Shout of Terror' },
 ];
 
 function  App() {
@@ -65,7 +65,9 @@ function  App() {
 //Write an algo to generate the hexagonData array
 
 const handleRuneSelection = (event) => {
-  return event.target.setAttribute("fill", `url(#${selectedOption.value})`);
+  let rune = selectedOption.value;
+  setSelectedOption(null);
+  return event.target.setAttribute("fill", `url(#${rune})`);
 };
 
     return (
@@ -73,6 +75,7 @@ const handleRuneSelection = (event) => {
         <div className="App">
           <div className="search">
         <Select
+        key={selectedOption ? selectedOption.value : 'default'}
         className="my-select"
         classNamePrefix="my-select"
         defaultValue={selectedOption}
@@ -92,7 +95,7 @@ const handleRuneSelection = (event) => {
               <Pattern id="frostWave" link="https://undecember.thein.ru/image/skill/Icon_Skill_FrostWave_01.png" size={hexagonSize}>
                 <rect x="-50%" y="-50%" width="100%" height="100%" />
               </Pattern>
-              <Pattern id="whirlwind" link="https://undecember.thein.ru/image/skill/Icon_Skill_Whirlwind_01.png" size={hexagonSize}>
+              <Pattern id="shoutOfTerror" link="http://www.vhpg.com/t/undecember/Icon_Skill_BattleCry_01.png" size={hexagonSize}>
                 <rect x="-50%" y="-50%" width="100%" height="100%" />
               </Pattern>
             </HexGrid>
