@@ -1,3 +1,8 @@
+@import "@fontsource/roboto/300.css";
+@import "@fontsource/roboto/400.css";
+@import "@fontsource/roboto/500.css";
+@import "@fontsource/roboto/700.css";
+
 *{
   margin: 0;
   padding: 0;
@@ -14,6 +19,7 @@ body{
 svg {
 
 }
+
 /*
 Russian blue pattern:
 #7be3f6
@@ -25,14 +31,10 @@ Russian blue pattern:
 svg g {
   fill: #3e3f3f;
   fill-opacity: 1;
-  background-color: red;
 }
 svg g:hover {
   fill: #7bf6b9;
   fill-opacity: 0.7;
-}
-svg g:hover text {
-  fill-opacity: 1;
 }
 
 svg g polygon {
@@ -40,13 +42,7 @@ svg g polygon {
   stroke-width: 0.2;
   transition: fill-opacity .5s;
 }
-svg g text {
-  font-size: 0.22em;
-  fill: white;
-  fill-opacity: 0.7;
-  transition: fill-opacity .5s;
-}
-svg path {
+.grid > svg path {
   fill: none;
   stroke: #7be3f6;
   stroke-width: 0.2em;
@@ -90,4 +86,16 @@ svg path {
   border: none;
   outline: none;
   width: 25vw;
+}
+#alert-banner {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 5px;
+  background-color: red;
+  color: white;
+  text-align: center;
+  display: none;
+  transition: all 0.5s ease;
 }

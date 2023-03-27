@@ -1,0 +1,3677 @@
+[
+    {
+        "name": "Shout of Terror",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_BattleCry_01.png",
+        "description": "Deals damage to enemies aroud the caster and dampens their armor. Enemies hit have a chance of being stunned.",
+        "tags": [
+            "Attack",
+            "Melee",
+            "Area of Effect",
+            "Shout",
+            "Strike",
+            "Physical",
+            "Duration"
+        ],
+        "mana_cost": "Mana cost 15.8. ",
+        "cooldown": "Cooldown 20 s. "
+    },
+    {
+        "name": "Frost Wave",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_FrostWave_01.png",
+        "description": "Emits Cold energy in front of the caster to deal damage to enemies.",
+        "tags": [
+            "Attack",
+            "Melee",
+            "Area of Effect",
+            "Strike",
+            "Cold"
+        ],
+        "mana_cost": "Mana cost 5. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Shield Charge",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ShieldCharge_01.png",
+        "description": "Charges forward to inflict Physical DMG on the enemy.",
+        "tags": [
+            "Attack",
+            "Melee",
+            "Area of Effect",
+            "Strike",
+            "Physical",
+            "Movement"
+        ],
+        "mana_cost": "Mana cost 4. ",
+        "cooldown": "Cooldown 5 s. "
+    },
+    {
+        "name": "Combo",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_VelocitySlash_01.png",
+        "description": "Swings weapon to attack the enemy twice. Deals DMG even faster from Frenzy effect on hit.",
+        "tags": [
+            "Attack",
+            "Melee",
+            "Weapon Range",
+            "Strike",
+            "Physical"
+        ],
+        "mana_cost": "Mana cost 3. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Illusion Axe",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_RotateAxe_01.png",
+        "description": "Summons Illusion Axes that circle around the caster to deal damage to the enemy.",
+        "tags": [
+            "Attack",
+            "Melee",
+            "Area of Effect",
+            "Strike",
+            "Physical",
+            "Toggle"
+        ],
+        "mana_cost": "Resource Cost 20% Amplification. ",
+        "cooldown": "Cooldown 3 s. "
+    },
+    {
+        "name": "Lightning Strike",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_LightningHit_01.png",
+        "description": "Calls down lightning in front and around the caster to deal damage to enemies.",
+        "tags": [
+            "Attack",
+            "Area of Effect",
+            "Strike",
+            "Lightning",
+            "Projectile",
+            "Cannot use Parallel Shot",
+            "Cannot Split",
+            "Cannot Chain"
+        ],
+        "mana_cost": "Mana Cost 5. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Explosive Slash",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ExplosionSlash_01.png",
+        "description": "Applies Debuff effect on hit. Killing a Debuffed enemy causes an explosion that deals damage to nearby enemies.",
+        "tags": [
+            "Attack",
+            "Melee",
+            "Area of Effect",
+            "Weapon Range",
+            "Strike",
+            "Fire"
+        ],
+        "mana_cost": "Mana Cost 5. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Earth Blow",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_EarthShock_01.png",
+        "description": "Strikes the ground to deal Physical DMG and increase Critical Rate",
+        "tags": [
+            "Attack",
+            "Melee",
+            "Area of Effect",
+            "Strike",
+            "Physical"
+        ],
+        "mana_cost": "Mana Cost 4. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Leap Attack",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_LeapAttack_01.png",
+        "description": "Leaps forward to inflict damage and knock enemies back upon landing.",
+        "tags": [
+            "Attack",
+            "Melee",
+            "Area of Effect",
+            "Strike",
+            "Physical",
+            "Movement"
+        ],
+        "mana_cost": "Mana cost 4. ",
+        "cooldown": "Cooldown 4 s. "
+    },
+    {
+        "name": "Whirlwind",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Whirlwind_01.png",
+        "description": "Spins toward the control direction while Channeling, dealing damage to all enemies in the path.",
+        "tags": [
+            "Attack",
+            "Melee",
+            "Weapon Range",
+            "Channel",
+            "Strike",
+            "Physical"
+        ],
+        "mana_cost": "Mana Cost 3. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Crescent Slash",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_HalfmoonSlash_01.png",
+        "description": "Swings weapon in a wide area to deal Physical DMG to multiple enemies.",
+        "tags": [
+            "Attack",
+            "Melee",
+            "Weapon Range",
+            "Strike",
+            "Physical"
+        ],
+        "mana_cost": "Mana Cost 4. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Lightning Vortex",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_LightningVortex_01.png",
+        "description": "Swings weapon to damage multiple enemies and create a vortex. The vortex deals additional damage to nearbly enemies.",
+        "tags": [
+            "Attack",
+            "Melee",
+            "Area of Effect",
+            "Strike",
+            "Lightning"
+        ],
+        "mana_cost": "Mana Cost 5. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Illusion Hook",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_PhantomHook_01.png",
+        "description": "Throws a hook to inflict Physical DNG on the enemy. Enemies hit will pulled toward the caster.",
+        "tags": [
+            "Spell",
+            "Melee",
+            "Area of Effect",
+            "Strike",
+            "Physical"
+        ],
+        "mana_cost": "Mana Cost 9. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Shield Strike",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ShieldAttack_01.png",
+        "description": "Knock the enemies back with a shield to inflict Physical damage.",
+        "tags": [
+            "Attack",
+            "Melee",
+            "Area of Effect",
+            "Strike",
+            "Physical"
+        ],
+        "mana_cost": "Mana Cost 4. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Quick Slash",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_QuickSlash_01.png",
+        "description": "Inflicts additional damage to nearby enemies upon hitting a singl enemy.",
+        "tags": [
+            "Attack",
+            "Melee",
+            "Weapon Range",
+            "Strike",
+            "Physical"
+        ],
+        "mana_cost": "Mana Cost 5. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Fissure",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_GroundCrevice_01.png",
+        "description": "Slams the ground to create a fissure that deals damage to enemies in a wide area. Deals less damage to enemies that are far away from the fissure.",
+        "tags": [
+            "Attack",
+            "Melee",
+            "Area of Effect",
+            "Strike",
+            "Physical"
+        ],
+        "mana_cost": "Mana Cost 4. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Bloodshed",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Rupture_01.png",
+        "description": "Chance to afflict Bleed to targets hit and creates a Domain of Blood upon afflicting Bleed.",
+        "tags": [
+            "Attack",
+            "Melee",
+            "Area of Effect",
+            "Weapon Range",
+            "Strike",
+            "Physical"
+        ],
+        "mana_cost": "Mana Cost 4. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Frost Strike",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_FrostSmash_01.png",
+        "description": "Strikes the ground to create a Frost Pillar that deals damage to enemies.",
+        "tags": [
+            "Attack",
+            "Melee",
+            "Area of Effect",
+            "Strike",
+            "Cold"
+        ],
+        "mana_cost": "Mana Cost 5. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Fighter's Wrath",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_RunAway_01.png",
+        "description": "Amplifies Melee DMG and increases Attack Speed during skill duration.",
+        "tags": [
+            "Spell",
+            "Attack Enhance",
+            "Duration"
+        ],
+        "mana_cost": "Mana Cost 20.8. ",
+        "cooldown": "Cooldown 25 s. "
+    },
+    {
+        "name": "Bulwark of Protection",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ProtectBarrier_01.png",
+        "description": "Increases Armor and Elemental Resist during skill duration.",
+        "tags": [
+            "Spell",
+            "Defense Enhance",
+            "Duration"
+        ],
+        "mana_cost": "Mana Cost 20.8. ",
+        "cooldown": "Cooldown 15 s. "
+    },
+    {
+        "name": "Shout of Provocation",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Frenzy_01.png",
+        "description": "Increases the caster's Armor during skill duration amd fotces enemies within range to attack the caster. Temporarily increases DMG upon use.",
+        "tags": [
+            "Attack",
+            "Area of Effect",
+            "Shout",
+            "Duration"
+        ],
+        "mana_cost": "Mana Cost 15.8. ",
+        "cooldown": "Cooldown 15 s. "
+    },
+    {
+        "name": "Blood Explosion",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_BloodBurst_01.png",
+        "description": "Chance to cause Blood Explosion in the surrounding area",
+        "tags": [
+            "Attack",
+            "Melee",
+            "Area of Effect",
+            "Strike",
+            "Physical",
+            "Duration",
+            "Toggle"
+        ],
+        "mana_cost": "Resource Cost 15 Amplification. ",
+        "cooldown": "Cooldown 3 s. "
+    },
+    {
+        "name": "Guardian",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Guardian_01.png",
+        "description": "Deals Physical DMG to nearbly enemies and inflicts Stun or Slow on hit.",
+        "tags": [
+            "Attack",
+            "Melee",
+            "Area of Effect",
+            "Strike",
+            "Physical",
+            "Duration"
+        ],
+        "mana_cost": "Mana Cost 17. ",
+        "cooldown": "Cooldown 5 s. "
+    },
+    {
+        "name": "Enduring pain",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Endure_01.png",
+        "description": "Increases Armor based on stack upon taking damage while using this skill. Gains an Enchance buff at Max Stack.",
+        "tags": [
+            "Spell",
+            "Defense Enhance",
+            "Toggle"
+        ],
+        "mana_cost": "Resource Cost 15 Amplification. ",
+        "cooldown": "Cooldown 20 s. "
+    },
+    {
+        "name": "Electric Area",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_LightningZone_01.png",
+        "description": "Creates an Electric Area that deals Lightning damage in the forward direction. Enemies within range take Lightning damage periodically.",
+        "tags": [
+            "Attack",
+            "Area of Effect",
+            "Strike",
+            "Lightning"
+        ],
+        "mana_cost": "Mana cost 20. ",
+        "cooldown": "Cooldown 8 s. "
+    },
+    {
+        "name": "Wheel Slash",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_RotationalSlash_01.png",
+        "description": "Slash the surroundings to deal Dot to the target.",
+        "tags": [
+            "Attack",
+            "Melee",
+            "Weapon Range",
+            "DoT",
+            "Physical"
+        ],
+        "mana_cost": "Mana cost 5. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Sprint",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Sprinting_01.png",
+        "description": "Instantly sprints very quickly. When used, temporarily immune to control status abnormalities.",
+        "tags": [
+            "Attack",
+            "Duration",
+            "Movement"
+        ],
+        "mana_cost": "Mana cost 6. ",
+        "cooldown": "Cooldown 9 s. "
+    },
+    {
+        "name": "Whirlwind Slash",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_TornadoSlash_01.png",
+        "description": "Slashes the air quickly to send forth a Whirlwind.",
+        "tags": [
+            "Attack",
+            "Strike",
+            "Physical",
+            "Projectile",
+            "Cannot use Parallel Shot",
+            "Cannot Split",
+            "Cannot Chain"
+        ],
+        "mana_cost": "Mana Cost 10. ",
+        "cooldown": "Cooldown 7 s. "
+    },
+    {
+        "name": "Tenacious Regeneration",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_MindOfSteel_01.png",
+        "description": "Increases HP and HP Regen during skill duration.",
+        "tags": [
+            "Spell",
+            "Defense Enhance",
+            "Duration"
+        ],
+        "mana_cost": "Mana Cost 20.8. ",
+        "cooldown": "Cooldown 20 s. "
+    },
+    {
+        "name": "Seal of Condensed Destruction",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_AuraOfDestruction_01.png",
+        "description": "Increases Physical DMG.",
+        "tags": [
+            "Spell",
+            "Seal",
+            "Toggle"
+        ],
+        "mana_cost": "Resource Cost 15 Amplification. ",
+        "cooldown": "Cooldown 5 s. "
+    },
+    {
+        "name": "Seal of Defense",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_AuraOfDefense_01.png",
+        "description": "Increases Armor.",
+        "tags": [
+            "Spell",
+            "Seal",
+            "Toggle"
+        ],
+        "mana_cost": "Resource Cost 15 Amplification. ",
+        "cooldown": "Cooldown 5 s. "
+    },
+    {
+        "name": "Seal of Crowd Control Dodge",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_AddCCAbsResist.png",
+        "description": "Increases your Crowd Control Dodge Chance.",
+        "tags": [
+            "Spell",
+            "Seal",
+            "Toggle"
+        ],
+        "mana_cost": "Resource Cost 15 Amplification. ",
+        "cooldown": "Cooldown 10 s. "
+    },
+    {
+        "name": "Fire Blow",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_FireBlow_01.png",
+        "description": "Slams the ground to deal Fire DMG and create a Fire Pillar.",
+        "tags": [
+            "Attack",
+            "Melee",
+            "Area of Effect",
+            "Strike",
+            "Fire",
+            "Projectile",
+            "Cannot use Parallel Shot",
+            "Cannot Split",
+            "Cannot Change Speed"
+        ],
+        "mana_cost": "Mana cost 5. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Shout of Justice",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_CourageCry_01.png",
+        "description": "Dampens enemy damage within range during its duration, temporarily recovars HP, and removes Status Effects during Skill duration.",
+        "tags": [
+            "Attack",
+            "Area of Effect",
+            "Shout",
+            "Duration"
+        ],
+        "mana_cost": "Mana Cost 15.8. ",
+        "cooldown": "Cooldown 25 s. "
+    },
+    {
+        "name": "Fierce Strike",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Smash_01.png",
+        "description": "Summons a hammer to deal Physical damage to multiple enemies. Periodically summons a giant hammer to deal even more damage instead.",
+        "tags": [
+            "Attack",
+            "Area of Effect",
+            "Strike",
+            "Physical"
+        ],
+        "mana_cost": "Mana Cost 6. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Fire Storm",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_FireStorm_01.png",
+        "description": "Spin in place to create a Fire Storm. Chance to cause a new Fire Storm upon killing a Burning enemy.",
+        "tags": [
+            "Attack",
+            "Melee",
+            "Area of Effect",
+            "Strike",
+            "Fire"
+        ],
+        "mana_cost": "Mana Cost 6. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Seal of Physical Domain",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_AuraOfReleasePhyDmg_01.png",
+        "description": "Decreases Target's Physical DMG Taken.",
+        "tags": [
+            "Spell",
+            "Seal",
+            "Toggle"
+        ],
+        "mana_cost": "Resource Cost 15 Amplification. ",
+        "cooldown": "Cooldown 5 s. "
+    },
+    {
+        "name": "Seal of Striking",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_AuraOfHit_01.png",
+        "description": "Amplifies Target's Strike DMG.",
+        "tags": [
+            "Spell",
+            "Seal",
+            "Toggle"
+        ],
+        "mana_cost": "Resource Cost 25 Amplification. ",
+        "cooldown": "Cooldown 10 s. "
+    },
+    {
+        "name": "Imperfect Skill Rune (Red)",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_IncompleteA_01.png",
+        "description": "An imperfect Skill Rune. Unusable, but can be spend as an ingredient for synthesis.",
+        "tags": [],
+        "mana_cost": "Mana cost 0. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Spread Shot",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_SpreadArrow_01.png",
+        "description": "Fires several arrows over a wide area to inflict physical damage on the enemy.",
+        "tags": [
+            "Attack",
+            "Strike",
+            "Physical",
+            "Projectile",
+            "Bow"
+        ],
+        "mana_cost": "Mana Cost 3. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Explosive Arrow",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ExplosionArrow_01.png",
+        "description": "Fires an exploding arrow to deal damage to the enemy. Killing an enemy with an attached arrow inflicts additional explosion damage.",
+        "tags": [
+            "Attack",
+            "Area of Effect",
+            "Strike",
+            "Fire",
+            "Projectile",
+            "Bow",
+            "Cannot Chain"
+        ],
+        "mana_cost": "Mana Cost 10. ",
+        "cooldown": "Cooldown 11 s. "
+    },
+    {
+        "name": "Icy Arrow",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_FrostArrow_01.png",
+        "description": "Fires an icy arrow to damage the enemy. Frost Spheres are formed along the arrow's path inflicting additional damage with an explosion.",
+        "tags": [
+            "Attack",
+            "Area of Effect",
+            "Strike",
+            "Cold",
+            "Projectile",
+            "Bow",
+            "Cannot Multishot",
+            "Cannot Split",
+            "Cannot Chain"
+        ],
+        "mana_cost": "Mana Cost 5. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Rapid Shot",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_BarrageShot_01.png",
+        "description": "Fires multiple arrows in a straight line to inflict physical damage on the enemy.",
+        "tags": [
+            "Attack",
+            "Strike",
+            "Physical",
+            "Projectile",
+            "Bow",
+            "Cannot use Parallel Shot"
+        ],
+        "mana_cost": "Mana Cost 4. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Poison Cloud",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_PoisonEruption_01.png",
+        "description": "Forms a poisonous cloud around the caster to deal Poison DMG to enemies.",
+        "tags": [
+            "Spell",
+            "Melee",
+            "Area of Effect",
+            "Strike",
+            "Poison"
+        ],
+        "mana_cost": "Mana Cost 4. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Piercing Arrow",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_SharpenArrow_01.png",
+        "description": "Fires an arrow that pierces all enemies to inflict damage.",
+        "tags": [
+            "Attack",
+            "Strike",
+            "Physical",
+            "Projectile",
+            "Bow",
+            "Cannot Split",
+            "Cannot Chain"
+        ],
+        "mana_cost": "Mana Cost 6. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Rain of Arrows",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_RainofArrows_01.png",
+        "description": "Temporarily calls down a Rain of Arrows to damage enemies.",
+        "tags": [
+            "Attack",
+            "Area of Effect",
+            "Strike",
+            "Physical",
+            "Projectile",
+            "Bow",
+            "Cannot use Parallel Shot",
+            "Cannot Split",
+            "Cannot Chain"
+        ],
+        "mana_cost": "Mana Cost 15. ",
+        "cooldown": "Cooldown 20 s. "
+    },
+    {
+        "name": "Burn Arrow",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ClusterBombArrow_01.png",
+        "description": "Shoots a Fire arrow that causes Burn and inflicts damage on the enemy.",
+        "tags": [
+            "Attack",
+            "Strike",
+            "Fire",
+            "Projectile",
+            "Bow",
+            "Cannot Split"
+        ],
+        "mana_cost": "Mana Cost 4. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Cross Lightning Arrow",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ShockShot_01.png",
+        "description": "Fires an arrow that explodes in a cross shape to inflict damage on the enemy.",
+        "tags": [
+            "Attack",
+            "Area of Effect",
+            "Strike",
+            "Lightning",
+            "Projectile",
+            "Bow",
+            "Cannot Split",
+            "Cannot Chain"
+        ],
+        "mana_cost": "Mana Cost 4. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Dagger Throw",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ThrowDagger_01.png",
+        "description": "Throws a dagger to damage the enemy. Inflicts additional damage by bouncing off surrounding enemies on hit.",
+        "tags": [
+            "Attack",
+            "Strike",
+            "Poison",
+            "Projectile",
+            "Cannot use Parallel Shot"
+        ],
+        "mana_cost": "Mana Cost 4. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Roll",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Roll_01.png",
+        "description": "Rolls a shout distance forward.",
+        "tags": [
+            "Attack",
+            "Duration",
+            "Movement"
+        ],
+        "mana_cost": "Mana Cost 3. ",
+        "cooldown": "Cooldown 5 s. "
+    },
+    {
+        "name": "Cross Slash",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_CrossingoverSlash_01.png",
+        "description": "Cross your weapons to deal damage twice to enemies in front of you.",
+        "tags": [
+            "Attack",
+            "Melee",
+            "Area of Effect",
+            "Strike",
+            "Physical"
+        ],
+        "mana_cost": "Mana Cost 5. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Illusion Strike",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_PhantomRaven_01.png",
+        "description": "Moves forward to inflict damage on enemies. Chance to cause Status Effects on Strikes and Critical Hits.",
+        "tags": [
+            "Attack",
+            "Melee",
+            "Area of Effect",
+            "Strike",
+            "Physical",
+            "Movement"
+        ],
+        "mana_cost": "Mana Cost 5. ",
+        "cooldown": "Cooldown 5 s. "
+    },
+    {
+        "name": "Piercing Sentry",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_SharpenCrossbow_01.png",
+        "description": "Piercing Sentry has the Strike, Physical, Projectile tags.",
+        "tags": [
+            "Attack",
+            "Sentry",
+            "Cannot Split",
+            "Cannot Chain"
+        ],
+        "mana_cost": "Mana Cost 15. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Fan Blade Sentry",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_SpreadCrossbow_01.png",
+        "description": "Fan Blade Sentry has the Strike, Physical, Projectile tags.",
+        "tags": [
+            "Attack",
+            "Sentry"
+        ],
+        "mana_cost": "Mana Cost 15. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Electric Sentry",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_DischargeCrossbow_01.png",
+        "description": "Electric Sentry has the Strike, Lightning, Projectile tags.",
+        "tags": [
+            "Attack",
+            "Sentry",
+            "Cannot Split"
+        ],
+        "mana_cost": "Mana Cost 15. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Venom Fang",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_PoisonFang_01.png",
+        "description": "Swings a Dagger to deal Area damage. Range increases every time you deal damage to the enemy.",
+        "tags": [
+            "Attack",
+            "Melee",
+            "Area of Effect",
+            "Strike",
+            "Poison"
+        ],
+        "mana_cost": "Mana Cost 4. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Shadow Forest",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ShadowForest_01.png",
+        "description": "Creates an artificial space that deals DoT to enemies.",
+        "tags": [
+            "Spell",
+            "Area of Effect",
+            "Strike",
+            "Physical"
+        ],
+        "mana_cost": "Mana Cost 15. ",
+        "cooldown": "Cooldown 10 s. "
+    },
+    {
+        "name": "Blade of Death",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_DeathKnife_01.png",
+        "description": "Throws a dagger that returns to the caster.",
+        "tags": [
+            "Spell",
+            "Strike",
+            "Physical",
+            "Projectile",
+            "Cannot use Parallel Shot",
+            "Cannot Split",
+            "Cannot Chain"
+        ],
+        "mana_cost": "Mana Cost 5. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Bombardment Arrow",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_BombingArrow_01.png",
+        "description": "Fires an arrow that bombards a large area.",
+        "tags": [
+            "Attack",
+            "Area of Effect",
+            "Strike",
+            "Physical",
+            "Projectile",
+            "Bow",
+            "Cannot use Parallel Shot",
+            "Cannot Split",
+            "Cannot Chain"
+        ],
+        "mana_cost": "Mana Cost 7. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Venomous Strength",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_PowerofPoison_01.png",
+        "description": "Stabs forward to deal damage. Attack Speed and Poison damage increases with every attack.",
+        "tags": [
+            "Attack",
+            "Melee",
+            "Weapon Range",
+            "Strike",
+            "Poison"
+        ],
+        "mana_cost": "Mana Cost 4. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Unleash Lighting Shot",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ThunderboltArrow_01.png",
+        "description": "Fires an arrow that causes an electric shock. Erupts lightning bolts on impact on a Shocked target.",
+        "tags": [
+            "Attack",
+            "Strike",
+            "Lightning",
+            "Projectile",
+            "Bow",
+            "Cannot use Parallel Shot"
+        ],
+        "mana_cost": "Mana Cost 6. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Frost Sentry",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_DetailedCrossbow_01.png",
+        "description": "Frost Sentry has the Strike, Area of Effect, Cold, Projectile tags.",
+        "tags": [
+            "Attack",
+            "Sentry",
+            "Cannot Split",
+            "Cannot Chain"
+        ],
+        "mana_cost": "Mana Cost 15. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Vital Strike",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Blow_01.png",
+        "description": "Increases Critical Rate and Critical DMG during skill duration.",
+        "tags": [
+            "Spell",
+            "Attack Enhance",
+            "Duration"
+        ],
+        "mana_cost": "Mana Cost 16.8. ",
+        "cooldown": "Cooldown 15 s. "
+    },
+    {
+        "name": "Marksman",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_MaskMan_01.png",
+        "description": "Increases Projectile DMG and Pierce Count during skill duration.",
+        "tags": [
+            "Spell",
+            "Attack Enhance",
+            "Duration"
+        ],
+        "mana_cost": "Mana Cost 20.8. ",
+        "cooldown": "Cooldown 15 s. "
+    },
+    {
+        "name": "Illusion Arrow",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_PhantomArrow_01.png",
+        "description": "Chance to automatically fire a Guided Arrow upon reaching stack count with Bow Skills.",
+        "tags": [
+            "Attack",
+            "Strike",
+            "Physical",
+            "Projectile",
+            "Duration",
+            "Toggle",
+            "Cannot use Parallel Shot",
+            "Cannot Split",
+            "Cannot Chain"
+        ],
+        "mana_cost": "Resource Cost 15% Amplification. ",
+        "cooldown": "Cooldown 3 s. "
+    },
+    {
+        "name": "Poison Explosion",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_PoisonBurst_01.png",
+        "description": "Chance to cause Poison Explosion in the surrounding area upon reaching stack count by inflicting Poison.",
+        "tags": [
+            "Attack",
+            "Area of Effect",
+            "Strike",
+            "Poison",
+            "Duration",
+            "Toggle"
+        ],
+        "mana_cost": "Resource Cost 15% Amplification. ",
+        "cooldown": "Cooldown 3 s. "
+    },
+    {
+        "name": "Counterattack",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_CounterStrike_01.png",
+        "description": "Chance to deal damage to the enemy upon dodging an stack.",
+        "tags": [
+            "Attack",
+            "Area of Effect",
+            "Strike",
+            "Physical",
+            "Toggle"
+        ],
+        "mana_cost": "Resource Cost 15% Amplification. ",
+        "cooldown": "Cooldown 3 s. "
+    },
+    {
+        "name": "Improved Senses",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_IncreaseSence_01.png",
+        "description": "Gains a temporary Enhance effect based on the number of Daggers equipped upon using a Skill.",
+        "tags": [
+            "Spell",
+            "Defense Enhance",
+            "Duration"
+        ],
+        "mana_cost": "Mana Cost 20. ",
+        "cooldown": "Cooldown 15 s. "
+    },
+    {
+        "name": "Freeze Arrow",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_CoolingArrow_01.png",
+        "description": "Fires multiple arrows that freeze the enemy to deal damage and cause an additional Cold Explosion upon afflicting Freeze.",
+        "tags": [
+            "Attack",
+            "Area of Effect",
+            "Strike",
+            "Cold",
+            "Projectile",
+            "Bow",
+            "Cannot use Parallel Shot",
+            "Cannot Split"
+        ],
+        "mana_cost": "Mana Cost 5. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Scorching Arrow",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_BurningArrow_01.png",
+        "description": "Fires a burning arrow. Gains Maintan Position effect on hit and fires an additional arrow based on the number of stacks.",
+        "tags": [
+            "Attack",
+            "Strike",
+            "Fire",
+            "Projectile",
+            "Bow",
+            "Cannot Multishot",
+            "Cannot Split",
+            "Cannot Chain"
+        ],
+        "mana_cost": "Mana cost 4. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Lightning Arrow",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ArcArrow_01.png",
+        "description": "Fires arrows in a row to deal Lightning Damage on the enemy. Obtain Lightning Energy at a certain chance, increase Damage and Attack Speed per Lightning Energy.",
+        "tags": [
+            "Attack",
+            "Strike",
+            "Lightning",
+            "Projectile",
+            "Bow"
+        ],
+        "mana_cost": "Mana cost 5. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Shockwave Trap",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_EarthquakeTrap_01.png",
+        "description": "Installs a Trap that explodes to deal Physical damage upon detecting an enemy.",
+        "tags": [
+            "Attack",
+            "Area of Effect",
+            "Trap",
+            "Strike",
+            "Physical"
+        ],
+        "mana_cost": "Mana cost 5. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Flame Fissure Trap",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_FlameCrackTrap_01.png",
+        "description": "Installs a Trap that explodes to deal Fire damage upon detecting an enemy.",
+        "tags": [
+            "Attack",
+            "Area of Effect",
+            "Trap",
+            "Strike",
+            "Fire"
+        ],
+        "mana_cost": "Mana cost 5. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Frost Trap",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ChillzoneTrap_01.png",
+        "description": "Frost spheres explode upon detection, setting up a trap that deals Frost damage to enemies.",
+        "tags": [
+            "Attack",
+            "Area of Effect",
+            "Trap",
+            "Strike",
+            "Cold",
+            "Projectile",
+            "Cannot use Parallel Shot",
+            "Cannot Split",
+            "Cannot Chain"
+        ],
+        "mana_cost": "Mana cost 5. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Electric Sphere Trap",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ElectricsphereTrap_01.png",
+        "description": "Set up a trap that fires a random flying ball of electricity when it detects an enemy, dealing electrical damage.",
+        "tags": [
+            "Attack",
+            "Trap",
+            "Strike",
+            "Lightning",
+            "Projectile",
+            "Cannot use Parallel Shot"
+        ],
+        "mana_cost": "Mana cost 5. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Poison Gas Trap",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_PoisonGasTrap_01.png",
+        "description": "When it detects an enemy, it sets a trap that leaves poison gas and deals poison damage to the enemy.",
+        "tags": [
+            "Attack",
+            "Area of Effect",
+            "Trap",
+            "Strike",
+            "Poison"
+        ],
+        "mana_cost": "Mana cost 5. ",
+        "cooldown": "Cooldown 5 s. "
+    },
+    {
+        "name": "Activate Trap",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_DetonateTrap_01.png",
+        "description": "Forces all installed Traps to activate.",
+        "tags": [
+            "Spell",
+            "Duration"
+        ],
+        "mana_cost": "Mana cost 15. ",
+        "cooldown": "Cooldown 8 s. "
+    },
+    {
+        "name": "Shockwave Sentry",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_AutoCrossbow_01.png",
+        "description": "Shockwave Sentry has the Strike, Physical, Projectile tags.",
+        "tags": [
+            "Attack",
+            "Sentry",
+            "Cannot Split",
+            "Cannot Chain"
+        ],
+        "mana_cost": "Mana Cost 15. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Penetrating Slash",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_FlickerSlash_01.png",
+        "description": "Moves forward, inflicting Physical damage on enemies in your path.",
+        "tags": [
+            "Attack",
+            "Strike",
+            "Physical",
+            "Duration",
+            "Movement"
+        ],
+        "mana_cost": "Mana Cost 5. ",
+        "cooldown": "Cooldown 12 s. "
+    },
+    {
+        "name": "Poison Rain of Arrows",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_AbyssalArrow_01.png",
+        "description": "Fires an arrow into the air to inflict damage on the enemy.",
+        "tags": [
+            "Attack",
+            "Area of Effect",
+            "Strike",
+            "Poison",
+            "Projectile",
+            "Bow",
+            "Cannot use Parallel Shot",
+            "Cannot Split",
+            "Cannot Chain"
+        ],
+        "mana_cost": "Mana Cost 7. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Attack Impulse",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Impulse_01.png",
+        "description": "Temporarily increases Attack Speed and Physical DMG based on the user's Dexterity upon use.",
+        "tags": [
+            "Spell",
+            "Attack Enhance",
+            "Duration"
+        ],
+        "mana_cost": "Mana Cost 20. ",
+        "cooldown": "Cooldown 20 s. "
+    },
+    {
+        "name": "Seal of Accuracy",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_AuraOfAccuracy_01.png",
+        "description": "Increases Accuracy.",
+        "tags": [
+            "Spell",
+            "Seal",
+            "Toggle"
+        ],
+        "mana_cost": "Resource Cost 15% Amplification. ",
+        "cooldown": "Cooldown 5 s. "
+    },
+    {
+        "name": "Seal of Dodge",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_AuraOfEvasion_01.png",
+        "description": "Increases own Evasion.",
+        "tags": [
+            "Spell",
+            "Seal",
+            "Toggle"
+        ],
+        "mana_cost": "Resource Cost 15% Amplification. ",
+        "cooldown": "Cooldown 5 s. "
+    },
+    {
+        "name": "Seal of Critical Chance",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_AuraOfCritProc_01.png",
+        "description": "Increases Critical Chance.",
+        "tags": [
+            "Spell",
+            "Seal",
+            "Toggle"
+        ],
+        "mana_cost": "Resource Cost 15% Amplification. ",
+        "cooldown": "Cooldown 5 s. "
+    },
+    {
+        "name": "Sentry Expert",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_CrossbowMaster_01.png",
+        "description": "Changes Sentry Stats according to the situation.",
+        "tags": [
+            "Spell",
+            "Defense Enhance",
+            "Attack Enhance",
+            "Toggle"
+        ],
+        "mana_cost": "Resource Cost 15% Amplification. ",
+        "cooldown": "Cooldown 10 s. "
+    },
+    {
+        "name": "Fireball Trap",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_FireballTrap_01.png",
+        "description": "Set up a trap that fires a randomly exploding sphere of fire upon detection of an enemy, dealing Fire damage.",
+        "tags": [
+            "Attack",
+            "Area of Effect",
+            "Trap",
+            "Strike",
+            "Fire",
+            "Projectile",
+            "Cannot use Parallel Shot",
+            "Cannot Split"
+        ],
+        "mana_cost": "Mana cost 5. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Chill Zone Trap",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ColdwaterfallTrap_01.png",
+        "description": "Place a trap that leaves a chill zone when it detects an enemy and deals Frost damage.",
+        "tags": [
+            "Attack",
+            "Area of Effect",
+            "Trap",
+            "Strike",
+            "Cold"
+        ],
+        "mana_cost": "Mana cost 5. ",
+        "cooldown": "Cooldown 5 s. "
+    },
+    {
+        "name": "Shockwave Arrow",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_PuntureShot_01.png",
+        "description": "Fires an arrow that pierces through a short distance to deal damage to enemies.",
+        "tags": [
+            "Attack",
+            "Melee",
+            "Strike",
+            "Physical",
+            "Projectile",
+            "Bow",
+            "Cannot Split",
+            "Cannot Chain"
+        ],
+        "mana_cost": "Mana Cost 5. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Spinning Dagger",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_PhantomBurst_01.png",
+        "description": "Fires a spinning dagger that pierces through enemies in a straight line, dealing damage.",
+        "tags": [
+            "Attack",
+            "Strike",
+            "Physical",
+            "Projectile",
+            "Cannot Multishot",
+            "Cannot Split",
+            "Cannot Chain"
+        ],
+        "mana_cost": "Mana Cost 7. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Veil of Protection",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_MeleeGuard_01.png",
+        "description": "Decreases Melee or Projectile DMG Taken whenever a Skill is used.",
+        "tags": [
+            "Spell",
+            "Defense Enhance",
+            "Toggle"
+        ],
+        "mana_cost": "Resource Cost 15% Amplification. ",
+        "cooldown": "Cooldown 15 s. "
+    },
+    {
+        "name": "Seal of Chaos Resist",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_AuraOfChaosResist_01.png",
+        "description": "Increase Chaos Resist.",
+        "tags": [
+            "Spell",
+            "Seal",
+            "Toggle"
+        ],
+        "mana_cost": "Resource Cost 25% Amplification. ",
+        "cooldown": "Cooldown 10 s. "
+    },
+    {
+        "name": "Enchanted Crossbow",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_AlchemyCrossbow_01.png",
+        "description": "When focusing, increases the attack speed of nearby Crossbows in proportion to the number of stacks.",
+        "tags": [
+            "Spell",
+            "Channel",
+            "Attack Enhance"
+        ],
+        "mana_cost": "Mana Cost 10. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Imperfect Skill Rune (Green)",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_IncompleteB_01.png",
+        "description": "An imperfect Skill Rune. Unusable, but can be spend as an ingredient for synthesis.",
+        "tags": [],
+        "mana_cost": "Mana cost 0. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Summon Abyssling",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_SummonImp_01.png",
+        "description": "Abyssling has the Strike, Area of Effect, Physical, Melee tags.",
+        "tags": [
+            "Spell",
+            "Minion",
+            "Abyssling"
+        ],
+        "mana_cost": "Mana cost 22. ",
+        "cooldown": "Cooldown 3 s. "
+    },
+    {
+        "name": "Gather Minions",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_SummonRecall_01.png",
+        "description": "Summons all Minions to the caster's location.",
+        "tags": [
+            "Spell",
+            "Duration"
+        ],
+        "mana_cost": "Mana cost 25. ",
+        "cooldown": "Cooldown 25 s. "
+    },
+    {
+        "name": "Fire Ball",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_FireBall_01.png",
+        "description": "Fires a fire ball that explodes on hit to deal fire damage.",
+        "tags": [
+            "Spell",
+            "Area of Effect",
+            "Strike",
+            "Fire",
+            "Projectile"
+        ],
+        "mana_cost": "Mana cost 5. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Frost Ball",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_IceBall_01.png",
+        "description": "Fires a slow-moving Frost Sphere that pierces enemies in its path to deal cold damage.",
+        "tags": [
+            "Spell",
+            "Strike",
+            "Cold",
+            "Projectile",
+            "Cannot Split",
+            "Cannot Chain"
+        ],
+        "mana_cost": "Mana cost 5. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Frost shock",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_FrostShock_01.png",
+        "description": "Forms an area of Ice Thorns around the caster to deal Cold DMG yo enemies.",
+        "tags": [
+            "Spell",
+            "Melee",
+            "Area of Effect",
+            "Strike",
+            "Cold"
+        ],
+        "mana_cost": "Mana cost 5. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Poison Orb",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_PoisonBead_01.png",
+        "description": "Throws a poison orb that bounces forward and deals Poison DMG to enemy.",
+        "tags": [
+            "Spell",
+            "Area of Effect",
+            "Strike",
+            "Poison",
+            "Projectile",
+            "Cannot Split",
+            "Cannot Change Speed"
+        ],
+        "mana_cost": "Mana cost 5. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Lightning Typhoon",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_LightningStorm_01.png",
+        "description": "Temporarily summons a Lightning Typhooon that follows enemies to deal Lighting DMG.",
+        "tags": [
+            "Spell",
+            "Area of Effect",
+            "Strike",
+            "Lightning",
+            "Projectile",
+            "Cannot Multishot",
+            "Cannot Split",
+            "Cannot Chain"
+        ],
+        "mana_cost": "Mana cost 30. ",
+        "cooldown": "Cooldown 7 s. "
+    },
+    {
+        "name": "Frost Thorn",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_IceSpear_01.png",
+        "description": "Fires a series of frost spikes, dealing Frost damage to enemies.",
+        "tags": [
+            "Spell",
+            "Strike",
+            "Cold",
+            "Projectile",
+            "Cannot use Parallel Shot"
+        ],
+        "mana_cost": "Mana cost 4. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Flamethrower",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_FireThrower_01.png",
+        "description": "Deals fire damage, increasing range and amplifying damage for each Channeling stage. Causes Fire Explosion upon canceling Channeling.",
+        "tags": [
+            "Spell",
+            "Melee",
+            "Area of Effect",
+            "Channel",
+            "DoT",
+            "Fire"
+        ],
+        "mana_cost": "Mana cost 7. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Charge Release",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ElectricDisChage_01.png",
+        "description": "Fires several electric currents to deal Lightning DMG on the enemy.",
+        "tags": [
+            "Spell",
+            "Strike",
+            "Lightning",
+            "Projectile",
+            "Cannot use Parallel Shot"
+        ],
+        "mana_cost": "Mana cost 5. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Toxic Flame",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ToxicSoul_01.png",
+        "description": "Fires a piercing toxic flame that deals Poison DoT. Is not affected by Projectile DMG.",
+        "tags": [
+            "Spell",
+            "DoT",
+            "Poison",
+            "Projectile",
+            "Cannot Split",
+            "Cannot Chain"
+        ],
+        "mana_cost": "Mana cost 8. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Summon Javelin Abyssling",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_MageImp_01.png",
+        "description": "Javelin Abyssling has the Strike, Physical, Projectile tags.",
+        "tags": [
+            "Spell",
+            "Minion",
+            "Abyssling"
+        ],
+        "mana_cost": "Mana cost 22. ",
+        "cooldown": "Cooldown 3 s. "
+    },
+    {
+        "name": "Unite Crowd (Enrage)",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_CrowdBind_01.png",
+        "description": "Changes your Minion's active stance every time this skill is used.",
+        "tags": [
+            "Spell",
+            "Attack Enhance",
+            "Defense Enhance",
+            "Toggle"
+        ],
+        "mana_cost": "Resource Cost 15% Amplification. ",
+        "cooldown": "Cooldown 5 s. "
+    },
+    {
+        "name": "Summon Bursting Rune Knight",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_FireGolem_01.png",
+        "description": "Bursting Rune Knight has the Strike, Area of Effect, Fire, Melee tags.",
+        "tags": [
+            "Spell",
+            "Minion",
+            "Rune Knight"
+        ],
+        "mana_cost": "Mana cost 50. ",
+        "cooldown": "Cooldown 40 s. "
+    },
+    {
+        "name": "Sacred Devotion",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_LifeDevotion_01.png",
+        "description": "Decreases the caster's Armor and all Element Resist while channelimg, but increases Minion DMG.",
+        "tags": [
+            "Spell",
+            "Channel"
+        ],
+        "mana_cost": "Mana cost 10.5. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Cold Armor",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_IceShield_01.png",
+        "description": "Forms an ice barrier that inflict Cold DMG and causes Chill to attackers when hit by a melee attack.",
+        "tags": [
+            "Spell",
+            "Strike",
+            "Cold",
+            "Toggle"
+        ],
+        "mana_cost": "Resource Cost 15% Amplification. ",
+        "cooldown": "Cooldown 3 s. "
+    },
+    {
+        "name": "Lightning chain",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Chainlighting_01.png",
+        "description": "Discharges lightning that chains to deal lightning damage to multiple enemies.",
+        "tags": [
+            "Spell",
+            "Strike",
+            "Lightning"
+        ],
+        "mana_cost": "Mana cost 6. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Meteor",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Meteor_01.png",
+        "description": "Drops a huge meteorite in front, dealing damage to enemies within range.",
+        "tags": [
+            "Spell",
+            "Area of Effect",
+            "Strike",
+            "Fire",
+            "Projectile",
+            "Cannot Multishot",
+            "Cannot Split",
+            "Cannot Chain"
+        ],
+        "mana_cost": "Mana cost 25. ",
+        "cooldown": "Cooldown 10 s. "
+    },
+    {
+        "name": "Poison Area",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_PoisonFlare_01.png",
+        "description": "Temporarily forms a poisonius area to deal Poison DMG to enemies.",
+        "tags": [
+            "Spell",
+            "DoT",
+            "Poison"
+        ],
+        "mana_cost": "Mana cost 25. ",
+        "cooldown": "Cooldown 15 s. "
+    },
+    {
+        "name": "Plague Spike",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_PoisonBone_01.png",
+        "description": "Fires plague spikes to deal Poison DMG to the enemy. Chance to spread Plague on hit to inflict DoT on nearby enemies.",
+        "tags": [
+            "Spell",
+            "Area of Effect",
+            "Strike",
+            "Poison",
+            "Projectile",
+            "Duration"
+        ],
+        "mana_cost": "Mana cost 5. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Frost Bomb",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_IceBomb_01.png",
+        "description": "Fires a Frost Bomb that explodes after a period of time. Upon explosion, shoots several Ice Shards to deal Cold DMG on the enemy.",
+        "tags": [
+            "Spell",
+            "Strike",
+            "Cold",
+            "Projectile",
+            "Cannot use Parallel Shot"
+        ],
+        "mana_cost": "Mana cost 5. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Thunderbolt",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ThunderStrike_01.png",
+        "description": "Chance to call down Lightning and deal damage to the attacker when hit by a melee attack.",
+        "tags": [
+            "Spell",
+            "Strike",
+            "Lightning",
+            "Toggle"
+        ],
+        "mana_cost": "Resource Cost 15% Amplification. ",
+        "cooldown": "Cooldown 3 s. "
+    },
+    {
+        "name": "Summon Fire Orb Abyssling",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_FireImp01_01.png",
+        "description": "Fire Orb Abyssling has the Strike, Range, Area of Effect, Fire, Projectile tags.",
+        "tags": [
+            "Spell",
+            "Minion",
+            "Abyssling",
+            "Cannot Split"
+        ],
+        "mana_cost": "Mana cost 27. ",
+        "cooldown": "Cooldown 3 s. "
+    },
+    {
+        "name": "Summon Poison Arrow Abyssling",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_PoisonImp01_01.png",
+        "description": "Poison Arrow Abyssling has the Strike, Poison, Projectile tags.",
+        "tags": [
+            "Spell",
+            "Minion",
+            "Abyssling",
+            "Cannot Split"
+        ],
+        "mana_cost": "Mana cost 27. ",
+        "cooldown": "Cooldown 3 s. "
+    },
+    {
+        "name": "Summon Lightning Arrow Abyssling",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_LightningImp01_01.png",
+        "description": "Lightning Arrow Abyssling has the Strike, Lightning, Projectile tags.",
+        "tags": [
+            "Spell",
+            "Minion",
+            "Abyssling",
+            "Cannot Split",
+            "Cannot Chain"
+        ],
+        "mana_cost": "Mana cost 27. ",
+        "cooldown": "Cooldown 3 s. "
+    },
+    {
+        "name": "Summon Snow Orb Abyssling",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ColdImp01_01.png",
+        "description": "Snow Orb Abyssling has the Strike, Cold, Projectile tags.",
+        "tags": [
+            "Spell",
+            "Minion",
+            "Abyssling",
+            "Cannot Chain"
+        ],
+        "mana_cost": "Mana cost 27. ",
+        "cooldown": "Cooldown 3 s. "
+    },
+    {
+        "name": "Mark of Focus",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ForceAttack_01.png",
+        "description": "Marks an enemy for a period of time. The marked enemy becomes the target of minion attacks and receives increased damage from Minions.",
+        "tags": [
+            "Spell",
+            "Attack Enhance",
+            "Duration"
+        ],
+        "mana_cost": "Mana cost 15. ",
+        "cooldown": "Cooldown 10 s. "
+    },
+    {
+        "name": "Siphon Life",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_SkinHardening_01.png",
+        "description": "Grants enemy HP Absorb effect to yourself and allies during skill duration.",
+        "tags": [
+            "Attack",
+            "Defense Enhance",
+            "Duration"
+        ],
+        "mana_cost": "Mana cost 30.8. ",
+        "cooldown": "Cooldown 30 s. "
+    },
+    {
+        "name": "Summon Arctic Rune Knight",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_IceGolem_01.png",
+        "description": "Arctic Rune Knight has the Strike, Area of Effect, Cold, Melee tags.",
+        "tags": [
+            "Spell",
+            "Minion",
+            "Rune Knight"
+        ],
+        "mana_cost": "Mana cost 50. ",
+        "cooldown": "Cooldown 40 s. "
+    },
+    {
+        "name": "Summon Lightning Rune Knight",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_LightningGolem_01.png",
+        "description": "Lightning Rune Knight has the Strike, Area of Effect, Lightning, Melee tags.",
+        "tags": [
+            "Spell",
+            "Minion",
+            "Rune Knight"
+        ],
+        "mana_cost": "Mana cost 50. ",
+        "cooldown": "Cooldown 40 s. "
+    },
+    {
+        "name": "Release Element",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ElementalOutput_01.png",
+        "description": "Amplifies Element DMG and inreases Cast Speed during skill duration.",
+        "tags": [
+            "Spell",
+            "Attack Enhance",
+            "Duration"
+        ],
+        "mana_cost": "Mana cost 25. ",
+        "cooldown": "Cooldown 20 s. "
+    },
+    {
+        "name": "Intensify Pain",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Painful_01.png",
+        "description": "Increases DoT Rate? Duration? and DMG during skill duration.",
+        "tags": [
+            "Spell",
+            "Attack Enhance",
+            "Duration"
+        ],
+        "mana_cost": "Mana cost 25. ",
+        "cooldown": "Cooldown 15 s. "
+    },
+    {
+        "name": "Cold Outburst",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_IceLance.png",
+        "description": "Launches nultiple Ice Spikes forward. Deals damage beyond the target with Ice Shards.",
+        "tags": [
+            "Spell",
+            "Area of Effect",
+            "Strike",
+            "Cold",
+            "Projectile",
+            "Cannot Multishot",
+            "Cannot Split",
+            "Cannot Chain",
+            "Cannot Change Speed"
+        ],
+        "mana_cost": "Mana cost 30. ",
+        "cooldown": "Cooldown 9 s. "
+    },
+    {
+        "name": "Weaken Element Totem",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ElementalWeak.png",
+        "description": "Summons a Totem that increases Element DMG Taken by enemies.",
+        "tags": [
+            "Spell",
+            "Totem"
+        ],
+        "mana_cost": "Mana cost 25. ",
+        "cooldown": "Cooldown 1 s. "
+    },
+    {
+        "name": "Tremor Totem",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Tremor.png",
+        "description": "Summons a Totem that dampens Movement Speed and Attack Speed of enemies.",
+        "tags": [
+            "Spell",
+            "Totem"
+        ],
+        "mana_cost": "Mana cost 25. ",
+        "cooldown": "Cooldown 1 s. "
+    },
+    {
+        "name": "Protection Totem",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Healing.png",
+        "description": "Summons a Totem that increases Barrier and decreases Barrier Regen Cycle of allies.",
+        "tags": [
+            "Spell",
+            "Totem"
+        ],
+        "mana_cost": "Mana cost 25. ",
+        "cooldown": "Cooldown 5 s. "
+    },
+    {
+        "name": "Life totem",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Life.png",
+        "description": "Summons a Totem that increases HP Regen for allies.",
+        "tags": [
+            "Spell",
+            "Totem"
+        ],
+        "mana_cost": "Mana cost 25. ",
+        "cooldown": "Cooldown 5 s. "
+    },
+    {
+        "name": "Mist Totem",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Fog.png",
+        "description": "Summons a totem that reduces the enemy's hit rate and criticality.",
+        "tags": [
+            "Spell",
+            "Totem"
+        ],
+        "mana_cost": "Mana cost 25. ",
+        "cooldown": "Cooldown 1 s. "
+    },
+    {
+        "name": "Electromagnetic Field",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ElectromagneticField.png",
+        "description": "Releases an Electric Sphere that instantly draws enemies to the center.",
+        "tags": [
+            "Spell",
+            "Area of Effect",
+            "Strike",
+            "Lightning"
+        ],
+        "mana_cost": "Mana cost 25. ",
+        "cooldown": "Cooldown 10 s. "
+    },
+    {
+        "name": "Teleport",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Teleport_01.png",
+        "description": "Teleports forward. Temporarily increases Element Resist after teleporting.",
+        "tags": [
+            "Spell",
+            "Duration",
+            "Movement"
+        ],
+        "mana_cost": "Mana cost 4. ",
+        "cooldown": "Cooldown 6 s. "
+    },
+    {
+        "name": "Agile Movement",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ShadowStep_01.png",
+        "description": "If you take damage while maintaining the skill, you receive a buff that reduces damage in proportion to your Zodiac Evasion for a certain period of time.",
+        "tags": [
+            "Spell",
+            "Defense Enhance",
+            "Duration"
+        ],
+        "mana_cost": "Mana cost 20. ",
+        "cooldown": "Cooldown 15 s. "
+    },
+    {
+        "name": "Pantheon",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Mystery_01.png",
+        "description": "Enhances your Barrier to greatly increase Barrier Regen.",
+        "tags": [
+            "Spell",
+            "Defense Enhance",
+            "Duration"
+        ],
+        "mana_cost": "Mana cost 50. ",
+        "cooldown": "Cooldown 12 s. "
+    },
+    {
+        "name": "Fire torrent",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_PhoenixAttack_01.png",
+        "description": "Channels to temporarily summon a Fire Torrent. Flames periodically spew out from the torrent to track down enemies. Attacks grow faster with longer channeling.",
+        "tags": [
+            "Spell",
+            "Channel",
+            "Strike",
+            "Fire",
+            "Projectile",
+            "Cannot use Parallel Shot",
+            "Cannot Split",
+            "Cannot Chain"
+        ],
+        "mana_cost": "Mana cost 6. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Electric Ball",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_LightningBall_01.png",
+        "description": "Fires an electric ball that periodically explodes. Explosions deal Lightning DMG to nearby enemies.",
+        "tags": [
+            "Spell",
+            "Area of Effect",
+            "Strike",
+            "Lightning",
+            "Projectile",
+            "Cannot Multishot",
+            "Cannot Split",
+            "Cannot Chain"
+        ],
+        "mana_cost": "Mana cost 6. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Sacred Light",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Penitence_01.png",
+        "description": "Deals DMG with the highest Element while Channeling. DMG penetrates Element Resist at maximum Enhance Effect stacks.",
+        "tags": [
+            "Spell",
+            "Melee",
+            "Area of Effect",
+            "Channel",
+            "Strike",
+            "Cold",
+            "Poison",
+            "Lightning",
+            "Fire"
+        ],
+        "mana_cost": "Mana cost 5. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Summon Wrathful Rune Knight",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_RageGolem_01.png",
+        "description": "Wrathful Rune Knight has the Strike, Area of Effect, Physical, Melee tags.",
+        "tags": [
+            "Spell",
+            "Minion",
+            "Rune Knight"
+        ],
+        "mana_cost": "Mana cost 50. ",
+        "cooldown": "Cooldown 40 s. "
+    },
+    {
+        "name": "Spell Protection Totem",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_LesEleDmgTotem.png",
+        "description": "Summons a totem that blocks enemy spells, reducing damage.",
+        "tags": [
+            "Spell",
+            "Totem"
+        ],
+        "mana_cost": "Mana cost 25. ",
+        "cooldown": "Cooldown 1 s. "
+    },
+    {
+        "name": "Seal of Condensed Elements",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_AuraOfElemental_01.png",
+        "description": "Increases Element DMG.",
+        "tags": [
+            "Spell",
+            "Seal",
+            "Toggle"
+        ],
+        "mana_cost": "Resource Cost 15% Amplification. ",
+        "cooldown": "Cooldown 5 s. "
+    },
+    {
+        "name": "Seal of Element Resist",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_AuraOfElementalResist_01.png",
+        "description": "Increases Element Resist for all Elements.",
+        "tags": [
+            "Spell",
+            "Seal",
+            "Toggle"
+        ],
+        "mana_cost": "Resource Cost 15% Amplification. ",
+        "cooldown": "Cooldown 5 s. "
+    },
+    {
+        "name": "Summon Twisted Abyssling",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_TwistedImp.png",
+        "description": "Twisted Abyssling has the Strike, Area of Effect, Physical, Melee tags.",
+        "tags": [
+            "Spell",
+            "Minion",
+            "Abyssling"
+        ],
+        "mana_cost": "Mana cost 12. ",
+        "cooldown": "Cooldown 0.3 s. "
+    },
+    {
+        "name": "Judgment of Light",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Judgmentoflight.png",
+        "description": "Deals damage to the target with the highest elemental attribute. Increases damage on hit and increases mana cost. Buffs are reset when using other skills.",
+        "tags": [
+            "Spell",
+            "Area of Effect",
+            "Strike",
+            "Cold",
+            "Poison",
+            "Lightning",
+            "Fire"
+        ],
+        "mana_cost": "Mana cost 5. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Energy absorption",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Energyabsorption.png",
+        "description": "Consumes energy to increase elemental damage.",
+        "tags": [
+            "Spell",
+            "Attack Enhance",
+            "Duration"
+        ],
+        "mana_cost": "Mana cost 25. ",
+        "cooldown": "Cooldown 20 s. "
+    },
+    {
+        "name": "Lightning Pulse",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_LightningWave.png",
+        "description": "Consumes all of the energy of lightning to unleash a wave of lightning in front of you, dealing lightning damage.",
+        "tags": [
+            "Spell",
+            "Area of Effect",
+            "Strike",
+            "Lightning"
+        ],
+        "mana_cost": "Mana cost 20. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Blizzard",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ColdWave_01.png",
+        "description": "Summons a powerful Blizzard that damages enemies in front of the caster.",
+        "tags": [
+            "Spell",
+            "Area of Effect",
+            "Strike",
+            "Cold",
+            "Cannot Multishot",
+            "Cannot Split",
+            "Cannot Chain"
+        ],
+        "mana_cost": "Mana cost 30. ",
+        "cooldown": "Cooldown 10 s. "
+    },
+    {
+        "name": "Wind totem",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Wind.png",
+        "description": "Summons a totem that increases cast and attack speed of allies.",
+        "tags": [
+            "Spell",
+            "Totem"
+        ],
+        "mana_cost": "Mana cost 25. ",
+        "cooldown": "Cooldown 1 s. "
+    },
+    {
+        "name": "Seal of Elemental Domain",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_AuraOfReleaseEleDmg_01.png",
+        "description": "Decreases Element DMG Taken.",
+        "tags": [
+            "Spell",
+            "Seal",
+            "Toggle"
+        ],
+        "mana_cost": "Resource Cost 15% Amplification. ",
+        "cooldown": "Cooldown 5 s. "
+    },
+    {
+        "name": "Seal of Pain",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_AuraOfPain_01.png",
+        "description": "Amplifies DoT.",
+        "tags": [
+            "Spell",
+            "Seal",
+            "Toggle"
+        ],
+        "mana_cost": "Resource Cost 25% Amplification. ",
+        "cooldown": "Cooldown 10 s. "
+    },
+    {
+        "name": "Imperfect Skill Rune (Blue)",
+        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_IncompleteC_01.png",
+        "description": "An imperfect Skill Rune. Unusable, but can be spend as an ingredient for synthesis.",
+        "tags": [],
+        "mana_cost": "Mana cost 0. ",
+        "cooldown": "Triggers Immediately. "
+    },
+    {
+        "name": "Knockback",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with Melee Attack Skills.",
+        "tags": [
+            "Melee",
+            "Attack"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Additional Physical DMG",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with Physical DMG Skills",
+        "tags": [
+            "Physical"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Additional fire damage",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with Fire DMG Skills",
+        "tags": [
+            "Fire"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Endless Pain",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with Physical Strike Skills",
+        "tags": [
+            "Physical",
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Bloodthirst",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with Physical Strike Skills",
+        "tags": [
+            "Physical",
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Armor Penetration",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with Physical DMG Skills",
+        "tags": [
+            "Physical"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Ignite",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with Fire Strike Skills",
+        "tags": [
+            "Fire",
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Blazing flame",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with Fire Strike Skills",
+        "tags": [
+            "Fire",
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Area Effect",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with Area DMG Skills",
+        "tags": [
+            "Strike",
+            "Area of Effect"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Concentrated Area DMG",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with Area DMG Skills",
+        "tags": [
+            "Strike",
+            "Area of Effect"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Decrease Duration",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with Skills with duration.",
+        "tags": [
+            "Duration"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Fire Penetration",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with Fire DMG Skills",
+        "tags": [
+            "Fire"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Confidence",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with DMG Skills",
+        "tags": [
+            "Strike",
+            "DoT"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Regenerative",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with Melee Attack Skills",
+        "tags": [
+            "Melee",
+            "Attack",
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Spell Activation on Attack Hit",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_02.png",
+        "description": "Can link at Attack Skill to the Activating Spell in the arrow's direction",
+        "tags": [
+            "Attack",
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Fire Damage Conversion",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with a Skill that deals Physical DMG that has not been set to Convert DMG.",
+        "tags": [
+            "Physical",
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Center of Gravity",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with DMG Skills",
+        "tags": [
+            "Strike",
+            "DoT"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Overpower",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with Strike Skills",
+        "tags": [
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Hushed Shout",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with Shout Skills.",
+        "tags": [
+            "Shout"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Savagery",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with Melee Attack Skill that use Weapon Range",
+        "tags": [
+            "Melee",
+            "Weapon Range"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Disarm",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with Movement Skills",
+        "tags": [
+            "Movement"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Hunger",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with Melee Strike DMG Skills",
+        "tags": [
+            "Melee",
+            "Attack",
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Lingering Shout",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked to Shout Skill.",
+        "tags": [
+            "Shout"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Improved Shout",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked to Shout Skill.",
+        "tags": [
+            "Shout"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Attack DMG Increase",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with Attack DMG Skills",
+        "tags": [
+            "Strike",
+            "DoT",
+            "Attack"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Trap Master",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with Trap skills.",
+        "tags": [
+            "Trap"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Trap Area Effect",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with Trap skills.",
+        "tags": [
+            "Trap"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Melee DMG Amplification",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with Melee Attack Skills",
+        "tags": [
+            "Melee",
+            "Attack"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Preemptive Strike",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with DMG Skills",
+        "tags": [
+            "Strike",
+            "DoT"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Strike",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with Strike Skills",
+        "tags": [
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Buff Activation when Hit",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_02.png",
+        "description": "Can link the Activating Shout, Attack Enhance, Defense Enhance Skill in the arrow's direction",
+        "tags": [
+            "Shout",
+            "Attack Enhance",
+            "Defense Enhance"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Ignition Explosion",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with Fire Strike DMG Skills",
+        "tags": [
+            "Strike",
+            "Fire"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Activate Buff upon Crowd Control",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_02.png",
+        "description": "Can be linked with Shout, Attack Enhance, Defense Enhance Skills",
+        "tags": [
+            "Shout",
+            "Attack Enhance",
+            "Defense Enhance"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Shout of power",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with Shout Skills.",
+        "tags": [
+            "Shout"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Increase Gold Gain Chance",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with Strike Skills",
+        "tags": [
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 10%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Increase Gold Gain Amount",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with Strike Skills",
+        "tags": [
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 10%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Increased Kill Experience",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with Strike Skills",
+        "tags": [
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 10%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Grip Strength",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with Melee Strile Skills.",
+        "tags": [
+            "Melee",
+            "Attack",
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Counterattack Offset",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with Hitting Skills.",
+        "tags": [
+            "Attack",
+            "Spell",
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Refreshment",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with Defense Enhancement Skills.",
+        "tags": [
+            "Defense Enhance"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Concentrated defense",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with Defense Enhancement Skills.",
+        "tags": [
+            "Defense Enhance"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Overflowing power",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with Defense Enhancement Skills.",
+        "tags": [
+            "Defense Enhance"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Sentence Scope Reinforcement",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with Sentence Skills.",
+        "tags": [
+            "Seal"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Slaughter chariot",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "May be linked with over time skill.",
+        "tags": [
+            "Strike",
+            "DoT"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Tenacity",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with Melee Attack Skills",
+        "tags": [
+            "Melee",
+            "Attack",
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Wide area totem",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with Totem Skills",
+        "tags": [
+            "Totem"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Concentrated bang",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with Bash Skills.",
+        "tags": [
+            "Attack",
+            "Spell"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Cohesion",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "Can be linked with Abyssal Skills.",
+        "tags": [
+            "Minion",
+            "Abyssling"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Advanced Technology",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "It can be linked with Attack or Spell skill.",
+        "tags": [
+            "Attack",
+            "Spell"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Imperfect Link Rune (Red)",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "description": "An imperfect Link Rune.",
+        "tags": [],
+        "mana_cost": "",
+        "cooldown": ""
+    },
+    {
+        "name": "Quick attack",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with Attack DMG Skills",
+        "tags": [
+            "Attack"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Find Weakness",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with Hitting Skills",
+        "tags": [
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Additional Poison DMG",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with Poison DMG Skills",
+        "tags": [
+            "Poison"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Multishot",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with Projectile Skills that are capable of Multishot",
+        "tags": [
+            "Projectile"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Slaughter",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with Hitting Skills",
+        "tags": [
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Increase Duration",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with Skills with duration .",
+        "tags": [
+            "Duration"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Piercing",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with Projectile Skills that are capable of Piercing",
+        "tags": [
+            "Projectile"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Poison Penetration",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with Poison DMG skills",
+        "tags": [
+            "Poison"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Projectile Acceleration",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with Skills that use Projectiles",
+        "tags": [
+            "Projectile"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Precision",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with Hitting Skills",
+        "tags": [
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 10%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Projectile Deceleration",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with Projectile Skills",
+        "tags": [
+            "Projectile"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Split Projectile",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with Projectile Skills that can be Split",
+        "tags": [
+            "Projectile"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Flowing Pain",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with Poison DMG Skills",
+        "tags": [
+            "Strike",
+            "Poison"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Elite Slayer",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with DMG skills",
+        "tags": [
+            "Strike",
+            "DoT"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Blind Aid",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with Poison Strike DMG Skills",
+        "tags": [
+            "Strike",
+            "Poison"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Deadly Poison",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with Poison DMG Skills",
+        "tags": [
+            "Strike",
+            "DoT",
+            "Poison"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Convert Poison DMG",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with a Skill that deals Physical DMG that has not been set to Convert DMG.",
+        "tags": [
+            "Physical",
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Close Range Shot",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with Projectile Skills that require a Bow",
+        "tags": [
+            "Bow",
+            "Sentry",
+            "Projectile"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Aim",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with Attack Skills",
+        "tags": [
+            "Attack"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Chain Impact",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with Skills that are capable of being Chained.",
+        "tags": [],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Pierce Wound",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with Projectile skills that are capable of Piercing.",
+        "tags": [
+            "Projectile"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Precise Shot",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with Projectile Skills that require a Bow",
+        "tags": [
+            "Bow",
+            "Sentry",
+            "Projectile"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Life Imbued Sentry",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with Sentry Skills.",
+        "tags": [
+            "Sentry"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Precise Sentry",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with Sentry Skills.",
+        "tags": [
+            "Sentry"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Sturdy Sentry",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with Sentry Skills.",
+        "tags": [
+            "Sentry"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Parallel Multiple Traps",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Changes how traps are placed in parallel.",
+        "tags": [
+            "Trap"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Random Multiple Traps",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Changes the trap placement method randomly within the placement radius.",
+        "tags": [
+            "Trap"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Quick Set Trap",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked to trap skills.",
+        "tags": [
+            "Trap"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Increased Trap Placement Distance",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked to trap skills.",
+        "tags": [
+            "Trap"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Trap Projectile Multiple Shots",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked to trap projectile skills.",
+        "tags": [
+            "Trap",
+            "Projectile"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Multi Sentry",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with Sentry Skills.",
+        "tags": [
+            "Sentry"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Channeling",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with Melee Attack Skills",
+        "tags": [
+            "Melee",
+            "Attack",
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Spell Activation upon Enemy Kill",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_02.png",
+        "description": "Can link a Strike Skill to the Activating Spell in the arrow's direction",
+        "tags": [
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Parallel Multishot",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with a Projectile Skill that is capable of Multishot. Fires Projectiles over a horizontal spread",
+        "tags": [
+            "Projectile"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Increase Item Drop Rarity",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with Strike Skills",
+        "tags": [
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 10%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Increase Skill Rune Drop Chance",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with Strike Skills",
+        "tags": [
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 10%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Increase Link Rune Drop Chance",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with Strike Skills",
+        "tags": [
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 10%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Effect Enhancement",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with Enhance and Shout Skills.",
+        "tags": [
+            "Shout",
+            "Attack Enhance",
+            "Defense Enhance",
+            ""
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Amplify Physical Projectile DMG",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with Skills that use Physical Projectiles",
+        "tags": [
+            "Physical",
+            "Projectile"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Opportunistic Strike",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with Attack or Spell Strike Skills",
+        "tags": [
+            "Attack",
+            "Spell",
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Quick shout",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with shout skills.",
+        "tags": [
+            "Shout"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Universal",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with attack enhancement skills",
+        "tags": [
+            "Attack Enhance"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Sentry Quick Install",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with Sentry Skills",
+        "tags": [
+            "Sentry"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Totem Quick Install",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with Totem Skills",
+        "tags": [
+            "Totem"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Trap Damage Amplification",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked to trap skills.",
+        "tags": [
+            "Trap"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Lasting Trap",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked to trap skills.",
+        "tags": [
+            "Trap"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Cut",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "Can be linked with Melee Strike Skills",
+        "tags": [
+            "Melee",
+            "Strike",
+            "Physical"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Imperfect Link Rune (Green)",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "description": "An imperfect Link Rune.",
+        "tags": [],
+        "mana_cost": "",
+        "cooldown": ""
+    },
+    {
+        "name": "Additional Lightning DMG",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Lightning DMG Skills",
+        "tags": [
+            "Lightning"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Additional Cold DMG",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Cold DMG Skills",
+        "tags": [
+            "Cold"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Quick Cast",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Spell Skills",
+        "tags": [
+            "Spell"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Lingering chill",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Cold Strike DMG Skills",
+        "tags": [
+            "Cold",
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Use Count",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Strike that have Use Count.",
+        "tags": [],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Frost Explosion",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Cold Strike Skills",
+        "tags": [
+            "Cold",
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Cold Penetration",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Cold DMG Skills",
+        "tags": [
+            "Cold"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Lightning Penetration",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Lighting DMG Skills",
+        "tags": [
+            "Lightning"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Time Acceleration",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Skills that have cooldowns.",
+        "tags": [
+            "Attack",
+            "Spell"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Channeling Enhancement",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Channeling skills.",
+        "tags": [
+            "Channel"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Minion Speed",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Minion Skills.",
+        "tags": [
+            "Minion"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Minion HP",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Minion Skills.",
+        "tags": [
+            "Minion"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Minion Body Shield",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Minion Skills.",
+        "tags": [
+            "Minion"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Continuius Shock",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Lightning Strike Skills",
+        "tags": [
+            "Lightning",
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Conductor",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Lightning Strike Skills",
+        "tags": [
+            "Lightning",
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Persistence",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Strike DMG Skills",
+        "tags": [
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Spell Activation on Spell Hit",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_02.png",
+        "description": "Can link an Attack Spell to the Activating Spell in the arrow's direction",
+        "tags": [
+            "Spell",
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Spell Actication while Channeling",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_02.png",
+        "description": "Can link a Channeling Spell to the Activating Spell in the arrow's direction",
+        "tags": [
+            "Channel"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Convert Cold DMG",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with a Skill that deals Physical DMG that has not been set to Convert DMG.",
+        "tags": [
+            "Physical",
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Convert Lightning DMG",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with a Skill that deals Physical DMG that has not been set to Convert DMG.",
+        "tags": [
+            "Physical",
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Sharpness",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Cold Strike Skills",
+        "tags": [
+            "Strike",
+            "Cold"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Status Effect Enhancement",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Hitting Skills",
+        "tags": [
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "DoT",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with DMG Skills",
+        "tags": [
+            "Strike",
+            "DoT"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Minion Armor",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Minion Skills.",
+        "tags": [
+            "Minion"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Lingering Totem",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Totem Skills.",
+        "tags": [
+            "Totem"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Life Imbued Totem",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Totem Skills.",
+        "tags": [
+            "Totem"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Enhanced Totem",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Totem Skills.",
+        "tags": [
+            "Totem"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Enhance DoT",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with DMG Skills.",
+        "tags": [
+            "Strike",
+            "DoT"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Spell DMG Increase",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Spell DMG Skills",
+        "tags": [
+            "Strike",
+            "DoT",
+            "Spell"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Chain",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Skills that are capable oof being Chained",
+        "tags": [],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Element DMG Amplification",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Element DMG Skills",
+        "tags": [
+            "Fire",
+            "Cold",
+            "Lightning",
+            "Poison"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Finishing Strike",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Hitting Skills",
+        "tags": [
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Minion DMG",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Minion Skills.",
+        "tags": [
+            "Minion"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Electric Shock",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Strike DMG Skills",
+        "tags": [
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Totem Affinity",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Totem Skills.",
+        "tags": [
+            "Totem"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Impact",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Melee Strike DMG Skills",
+        "tags": [
+            "Melee",
+            "Attack",
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Acceleration",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Strike Skills",
+        "tags": [
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Increase Essence Drop Chance",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Strike Skills",
+        "tags": [
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 10%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Increase Charm Drop Chance",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Strike Skills",
+        "tags": [
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 10%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Increased Alchemy Ingredient Drop Chance",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Strike Skills",
+        "tags": [
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 10%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Increase Element Drop Chance",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Strike Skills",
+        "tags": [
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 10%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Reduced resource consumption",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with All Skill.",
+        "tags": [
+            "Attack",
+            "Spell"
+        ],
+        "mana_cost": "Increases Resource Cost -8%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Buff Activation upon using Movement Skill",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_02.png",
+        "description": "Can link a Movement Skill to the Activating Shout, Attack Ebhance, Defence Enhance Skill in the arrow's direction",
+        "tags": [
+            "Movement"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Preserve Mana",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Attack or Spell Skills",
+        "tags": [
+            "Attack",
+            "Spell"
+        ],
+        "mana_cost": "",
+        "cooldown": ""
+    },
+    {
+        "name": "Barrier Absorb",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Spell Strike Skills",
+        "tags": [
+            "Spell",
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Intellectual",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Attack Enhance Skills.",
+        "tags": [
+            "Attack Enhance"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Element ruler",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Elemental Damage Skills.",
+        "tags": [
+            "Fire",
+            "Cold",
+            "Lightning",
+            "Poison"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Disruptive Behavior",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Movement Skills.",
+        "tags": [
+            "Movement"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Energy Harvesting",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "It can be linked with Hitting Skills.",
+        "tags": [
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Time Warp",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can only be linked with DMG Skills that do not have any Cooldowns",
+        "tags": [
+            "Repeat Strike",
+            "Repeat DoT"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Mana Storm",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with DMG Skills.",
+        "tags": [
+            "Strike",
+            "DoT"
+        ],
+        "mana_cost": "Increases Resource Cost 30%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Harmony",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can only be linked with Attack Spell DMG Skills",
+        "tags": [
+            "Attack",
+            "Spell"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Trigger Spell on Hit",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_02.png",
+        "description": "Depending on the direction of the arrow, you can link the triggerable (damage) and the triggering target (spell) skills at the same time.",
+        "tags": [
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Activate Totem When Using Enhancement Skills",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_02.png",
+        "description": "Depending on the direction of the arrow, you can connect the triggerable (enhanced) and the triggering target (totem) skills at the same time.",
+        "tags": [
+            "Attack Enhance",
+            "Defense Enhance"
+        ],
+        "mana_cost": "Increases Resource Cost 15%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Crush",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "Can be linked with Damage Skills",
+        "tags": [
+            "Strike"
+        ],
+        "mana_cost": "Increases Resource Cost 20%. ",
+        "cooldown": ""
+    },
+    {
+        "name": "Imperfect Link Rune (Blue)",
+        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "description": "An imperfect Link Rune.",
+        "tags": [],
+        "mana_cost": "",
+        "cooldown": ""
+    }
+]
