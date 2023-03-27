@@ -6,7 +6,8 @@ import Snackbar from '@mui/material/Snackbar';
 import Alert from '@mui/material/Alert';
 import AlertTitle from '@mui/material/AlertTitle';
 import ErrorIcon from '@mui/icons-material/Error';
-import CheckCircleOutlineIcon from '@mui/icons-material/CheckCircleOutline';
+import hexagonData from './hexagonMap';
+import runeList from './runes.json';
 import './App.css';
 
 
@@ -16,6 +17,15 @@ const options = [
   { value: 'shoutOfTerror', label: 'Shout of Terror' },
 ];
 
+const runeListWithIndex = runeList.map((rune, index) => {
+  return {
+    label: rune.name,
+    value: index
+  };
+});
+
+console.log(runeListWithIndex)
+
 function App() {
   const [selectedOption, setSelectedOption] = useState(null);
   const [open, setOpen] = useState(false);
@@ -23,52 +33,7 @@ function App() {
   const hexagonSize = { x: 8, y: 8 };
   const hexImgSize = { x: 7, y: 8 };
   const viewBox = `-50 -50 100 100`;
-  let hexagonData = [
-    { q: -3, r: 0, s: 3 },
-    { q: -2, r: 0, s: 2 },
-    { q: -1, r: 0, s: 1 },
-    { q: 0, r: 0, s: 0 },
-    { q: 1, r: 0, s: -1 },
-    { q: -4, r: 1, s: 3 },
-    { q: -3, r: 1, s: 2 },
-    { q: -2, r: 1, s: 1 },
-    { q: -1, r: 1, s: 0 },
-    { q: 0, r: 1, s: -1 },
-    { q: 1, r: 1, s: -2 },
-    { q: -5, r: 2, s: 3 },
-    { q: -4, r: 2, s: 2 },
-    { q: -3, r: 2, s: 1 },
-    { q: -2, r: 2, s: 0 },
-    { q: -1, r: 2, s: -1 },
-    { q: -1, r: 2, s: -1 },
-    { q: 0, r: 2, s: -2 },
-    { q: 1, r: 2, s: -3 },
-    { q: -6, r: 3, s: 3 },
-    { q: -5, r: 3, s: 2 },
-    { q: -4, r: 3, s: 1 },
-    { q: -3, r: 3, s: 0 },
-    { q: -2, r: 3, s: -1 },
-    { q: -1, r: 3, s: -2 },
-    { q: 0, r: 3, s: -3 },
-    { q: 1, r: 3, s: -4 },
-    { q: -6, r: 4, s: 4 },
-    { q: -5, r: 4, s: 3 },
-    { q: -4, r: 4, s: 2 },
-    { q: -3, r: 4, s: 1 },
-    { q: -2, r: 4, s: 0 },
-    { q: -1, r: 4, s: -1 },
-    { q: 0, r: 4, s: -2 },
-    { q: -6, r: 5, s: 5 },
-    { q: -5, r: 5, s: 4 },
-    { q: -4, r: 5, s: 3 },
-    { q: -3, r: 5, s: 2 },
-    { q: -2, r: 5, s: 1 },
-    { q: -1, r: 5, s: 0 },
-    { q: -6, r: 6, s: 6 },
-    { q: -5, r: 6, s: 5 },
-    { q: -4, r: 6, s: 4 },
-    { q: -3, r: 6, s: 3 },
-    { q: -2, r: 6, s: 2 }];
+
   //Write an algo to generate the hexagonData array
   const handleClick = () => {
     setOpen(true);
@@ -109,7 +74,7 @@ function App() {
             classNamePrefix="my-select"
             defaultValue={selectedOption}
             onChange={setSelectedOption}
-            options={options}
+            options={runeListWithIndex}
           />
         </div>
         <div className='grid'>
@@ -117,13 +82,7 @@ function App() {
             <Layout size={hexagonSize} flat={false} spacing={1} origin={{ x: 15, y: -40 }}>
               {hexagonData.map((hex, i) => <Hexagon key={i} q={hex.q} r={hex.r} s={hex.s} onClick={(event) => { handleRuneSelection(event) }} />)}
             </Layout>
-
-            <Pattern id="lightningStrike" link="http://www.vhpg.com/t/undecember/Icon_Skill_LightningHit_01.png" size={hexImgSize}>
-            </Pattern>
-            <Pattern id="frostWave" link="http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png" size={hexImgSize}>
-            </Pattern>
-            <Pattern id="shoutOfTerror" link="http://www.vhpg.com/t/undecember/Icon_Skill_BattleCry_01.png" size={hexImgSize}>
-            </Pattern>
+            {runeList.map((rune, i) => <Pattern id={i} link={rune.image} size={hexImgSize}/>)}
           </HexGrid>
 
         </div>
