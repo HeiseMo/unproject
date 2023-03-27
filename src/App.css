@@ -38,7 +38,7 @@ svg g:hover {
 }
 
 svg g polygon {
-  stroke: #7bf6b9;
+  stroke: #EEBC1D;
   stroke-width: 0.2;
   transition: fill-opacity .5s;
 }
@@ -67,7 +67,7 @@ svg g polygon {
 
 }
 .grid{
-  height: 60vh;
+  height: 70vh;
   width: 100vw;
   display: flex;
   justify-content: center;

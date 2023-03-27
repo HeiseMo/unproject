@@ -79,7 +79,7 @@ function App() {
         </div>
         <div className='grid'>
           <HexGrid width={1200} height={1200} viewBox={viewBox}>
-            <Layout size={hexagonSize} flat={false} spacing={1} origin={{ x: 15, y: -40 }}>
+            <Layout size={hexagonSize} flat={false} spacing={1.1} origin={{ x: 15, y: -40 }}>
               {hexagonData.map((hex, i) => <Hexagon key={i} q={hex.q} r={hex.r} s={hex.s} onClick={(event) => { handleRuneSelection(event) }} />)}
             </Layout>
             {runeList.map((rune, i) => <Pattern id={i} link={rune.image} size={hexImgSize}/>)}
