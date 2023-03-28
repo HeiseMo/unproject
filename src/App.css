@@ -39,8 +39,8 @@ svg g:hover {
 }
 
 svg g polygon {
-  stroke: #EEBC1D;
-  stroke-width: 0.2;
+  stroke: #5c490c;
+  stroke-width: 0.1;
   transition: fill-opacity .5s;
 }
 .grid > svg path {
@@ -106,18 +106,105 @@ svg g polygon {
   width: 25vw;
 }
 .infoBox {
-  background-color: #f5f5f5;
-  padding: 20px;
-  border-radius: 5px;
+  background-color: #1f1f1f;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   margin-bottom: 20px;
-  width: 80%;
-  height: 100%;
-  color:black
+  width: 100%;
+  height: 70vh;
+  color:black;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
 
-.tagList {
+.infoBoxHead {
+  background-color: #073b72a2;
+  color: white;
+  width: 100%;
+  height: 5vh;
+  text-align: center;
+  font-size: 10px;
+  margin-bottom: 2vh;
   display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.infoBoxHead > h1{
+  padding: 1vw;
+  font-size: 1.7em;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+.infoBoxImage {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: auto;
+
+}
+
+.infoBoxImage img {
+  width: 150px;
+  margin-bottom: 20px;
+}
+
+.infoBoxTags {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
   flex-wrap: wrap;
+  background-color: rgba(0, 0, 0, 0.5);
+  min-height: 10vh; /* Change height to min-height */
   gap: 5px;
+  margin: 1vw;
+  padding: 1vw;
+  border-radius: 1vw;
+}
+
+.infoBoxTag {
+  background-color: #073b72;
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+  font-size:0.8em;
+  
+}
+
+.infoBoxDescription {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 1vw;
+  gap: 5px;
+  margin: 1vw;
+  color: white;
+}
+
+.infoBoxDescription > p {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 1vw;
+  font-size:0.8em;
+}
+
+.infoBoxFooter {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 1vw;
+  gap: 5px;
+  margin: 1vw;
+  color: white;
+}
+.infoBoxFooter > p {
+  padding: 1vw;
+  font-size:0.8em;
 }

@@ -1,27 +1,37 @@
 import React from 'react';
+import Button from '@mui/material/Button';
 
 const InfoBox = ({ info }) => {
   const { label, image1, description, tags, mana_cost, cooldown } = info;
 console.log(info, "info")
   return (
     <div className="infoBox ">
-      <h1>{label}</h1>
-      <img src={image1} alt={label} />
-      <p>{description}</p>
-      <h3>Tags:</h3>
-      <div className="tagList">
+        <div className='infoBoxHead'>
+        <h1>{label}</h1>
+        </div>
+        <div className='infoBoxImage'>
+        <img src={image1} alt={label} />
+        </div>
+        <div className='infoBoxTags'>
         {tags.map((tag, i) => (
-          <span key={i}>{tag}</span>
+            <div className='infoBoxTag'>
+            {tag}
+            </div>
         ))}
-      </div>
+        </div>
+        <div className='infoBoxDescription'>
+      <p>{description}</p>
+        </div>
+        <div className='infoBoxFooter'>
       <p>
-        <strong>Mana Cost:</strong> {mana_cost}
+        {mana_cost}
       </p>
       {cooldown && (
         <p>
-          <strong>Cooldown:</strong> {cooldown}
+          {cooldown}
         </p>
       )}
+      </div>
     </div>
   );
 };
