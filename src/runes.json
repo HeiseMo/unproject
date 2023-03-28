@@ -1,7 +1,7 @@
 [
     {
         "name": "Shout of Terror",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_BattleCry_01.png",
+        "image1": "images\\0.png",
         "description": "Deals damage to enemies aroud the caster and dampens their armor. Enemies hit have a chance of being stunned.",
         "tags": [
             "Attack",
@@ -17,7 +17,7 @@
     },
     {
         "name": "Frost Wave",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_FrostWave_01.png",
+        "image1": "images\\1.png",
         "description": "Emits Cold energy in front of the caster to deal damage to enemies.",
         "tags": [
             "Attack",
@@ -31,7 +31,7 @@
     },
     {
         "name": "Shield Charge",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ShieldCharge_01.png",
+        "image1": "images\\2.png",
         "description": "Charges forward to inflict Physical DMG on the enemy.",
         "tags": [
             "Attack",
@@ -46,7 +46,7 @@
     },
     {
         "name": "Combo",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_VelocitySlash_01.png",
+        "image1": "images\\3.png",
         "description": "Swings weapon to attack the enemy twice. Deals DMG even faster from Frenzy effect on hit.",
         "tags": [
             "Attack",
@@ -60,7 +60,7 @@
     },
     {
         "name": "Illusion Axe",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_RotateAxe_01.png",
+        "image1": "images\\4.png",
         "description": "Summons Illusion Axes that circle around the caster to deal damage to the enemy.",
         "tags": [
             "Attack",
@@ -75,7 +75,7 @@
     },
     {
         "name": "Lightning Strike",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_LightningHit_01.png",
+        "image1": "images\\5.png",
         "description": "Calls down lightning in front and around the caster to deal damage to enemies.",
         "tags": [
             "Attack",
@@ -92,7 +92,7 @@
     },
     {
         "name": "Explosive Slash",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ExplosionSlash_01.png",
+        "image1": "images\\6.png",
         "description": "Applies Debuff effect on hit. Killing a Debuffed enemy causes an explosion that deals damage to nearby enemies.",
         "tags": [
             "Attack",
@@ -107,7 +107,7 @@
     },
     {
         "name": "Earth Blow",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_EarthShock_01.png",
+        "image1": "images\\7.png",
         "description": "Strikes the ground to deal Physical DMG and increase Critical Rate",
         "tags": [
             "Attack",
@@ -121,7 +121,7 @@
     },
     {
         "name": "Leap Attack",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_LeapAttack_01.png",
+        "image1": "images\\8.png",
         "description": "Leaps forward to inflict damage and knock enemies back upon landing.",
         "tags": [
             "Attack",
@@ -136,7 +136,7 @@
     },
     {
         "name": "Whirlwind",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Whirlwind_01.png",
+        "image1": "images\\9.png",
         "description": "Spins toward the control direction while Channeling, dealing damage to all enemies in the path.",
         "tags": [
             "Attack",
@@ -151,7 +151,7 @@
     },
     {
         "name": "Crescent Slash",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_HalfmoonSlash_01.png",
+        "image1": "images\\10.png",
         "description": "Swings weapon in a wide area to deal Physical DMG to multiple enemies.",
         "tags": [
             "Attack",
@@ -165,7 +165,7 @@
     },
     {
         "name": "Lightning Vortex",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_LightningVortex_01.png",
+        "image1": "images\\11.png",
         "description": "Swings weapon to damage multiple enemies and create a vortex. The vortex deals additional damage to nearbly enemies.",
         "tags": [
             "Attack",
@@ -179,7 +179,7 @@
     },
     {
         "name": "Illusion Hook",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_PhantomHook_01.png",
+        "image1": "images\\12.png",
         "description": "Throws a hook to inflict Physical DNG on the enemy. Enemies hit will pulled toward the caster.",
         "tags": [
             "Spell",
@@ -193,7 +193,7 @@
     },
     {
         "name": "Shield Strike",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ShieldAttack_01.png",
+        "image1": "images\\13.png",
         "description": "Knock the enemies back with a shield to inflict Physical damage.",
         "tags": [
             "Attack",
@@ -207,7 +207,7 @@
     },
     {
         "name": "Quick Slash",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_QuickSlash_01.png",
+        "image1": "images\\14.png",
         "description": "Inflicts additional damage to nearby enemies upon hitting a singl enemy.",
         "tags": [
             "Attack",
@@ -221,7 +221,7 @@
     },
     {
         "name": "Fissure",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_GroundCrevice_01.png",
+        "image1": "images\\15.png",
         "description": "Slams the ground to create a fissure that deals damage to enemies in a wide area. Deals less damage to enemies that are far away from the fissure.",
         "tags": [
             "Attack",
@@ -235,7 +235,7 @@
     },
     {
         "name": "Bloodshed",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Rupture_01.png",
+        "image1": "images\\16.png",
         "description": "Chance to afflict Bleed to targets hit and creates a Domain of Blood upon afflicting Bleed.",
         "tags": [
             "Attack",
@@ -250,7 +250,7 @@
     },
     {
         "name": "Frost Strike",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_FrostSmash_01.png",
+        "image1": "images\\17.png",
         "description": "Strikes the ground to create a Frost Pillar that deals damage to enemies.",
         "tags": [
             "Attack",
@@ -264,7 +264,7 @@
     },
     {
         "name": "Fighter's Wrath",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_RunAway_01.png",
+        "image1": "images\\18.png",
         "description": "Amplifies Melee DMG and increases Attack Speed during skill duration.",
         "tags": [
             "Spell",
@@ -276,7 +276,7 @@
     },
     {
         "name": "Bulwark of Protection",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ProtectBarrier_01.png",
+        "image1": "images\\19.png",
         "description": "Increases Armor and Elemental Resist during skill duration.",
         "tags": [
             "Spell",
@@ -288,7 +288,7 @@
     },
     {
         "name": "Shout of Provocation",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Frenzy_01.png",
+        "image1": "images\\20.png",
         "description": "Increases the caster's Armor during skill duration amd fotces enemies within range to attack the caster. Temporarily increases DMG upon use.",
         "tags": [
             "Attack",
@@ -301,7 +301,7 @@
     },
     {
         "name": "Blood Explosion",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_BloodBurst_01.png",
+        "image1": "images\\21.png",
         "description": "Chance to cause Blood Explosion in the surrounding area",
         "tags": [
             "Attack",
@@ -317,7 +317,7 @@
     },
     {
         "name": "Guardian",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Guardian_01.png",
+        "image1": "images\\22.png",
         "description": "Deals Physical DMG to nearbly enemies and inflicts Stun or Slow on hit.",
         "tags": [
             "Attack",
@@ -332,7 +332,7 @@
     },
     {
         "name": "Enduring pain",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Endure_01.png",
+        "image1": "images\\23.png",
         "description": "Increases Armor based on stack upon taking damage while using this skill. Gains an Enchance buff at Max Stack.",
         "tags": [
             "Spell",
@@ -344,7 +344,7 @@
     },
     {
         "name": "Electric Area",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_LightningZone_01.png",
+        "image1": "images\\24.png",
         "description": "Creates an Electric Area that deals Lightning damage in the forward direction. Enemies within range take Lightning damage periodically.",
         "tags": [
             "Attack",
@@ -357,7 +357,7 @@
     },
     {
         "name": "Wheel Slash",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_RotationalSlash_01.png",
+        "image1": "images\\25.png",
         "description": "Slash the surroundings to deal Dot to the target.",
         "tags": [
             "Attack",
@@ -371,7 +371,7 @@
     },
     {
         "name": "Sprint",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Sprinting_01.png",
+        "image1": "images\\26.png",
         "description": "Instantly sprints very quickly. When used, temporarily immune to control status abnormalities.",
         "tags": [
             "Attack",
@@ -383,7 +383,7 @@
     },
     {
         "name": "Whirlwind Slash",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_TornadoSlash_01.png",
+        "image1": "images\\27.png",
         "description": "Slashes the air quickly to send forth a Whirlwind.",
         "tags": [
             "Attack",
@@ -399,7 +399,7 @@
     },
     {
         "name": "Tenacious Regeneration",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_MindOfSteel_01.png",
+        "image1": "images\\28.png",
         "description": "Increases HP and HP Regen during skill duration.",
         "tags": [
             "Spell",
@@ -411,7 +411,7 @@
     },
     {
         "name": "Seal of Condensed Destruction",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_AuraOfDestruction_01.png",
+        "image1": "images\\29.png",
         "description": "Increases Physical DMG.",
         "tags": [
             "Spell",
@@ -423,7 +423,7 @@
     },
     {
         "name": "Seal of Defense",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_AuraOfDefense_01.png",
+        "image1": "images\\30.png",
         "description": "Increases Armor.",
         "tags": [
             "Spell",
@@ -435,7 +435,7 @@
     },
     {
         "name": "Seal of Crowd Control Dodge",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_AddCCAbsResist.png",
+        "image1": "images\\31.png",
         "description": "Increases your Crowd Control Dodge Chance.",
         "tags": [
             "Spell",
@@ -447,7 +447,7 @@
     },
     {
         "name": "Fire Blow",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_FireBlow_01.png",
+        "image1": "images\\32.png",
         "description": "Slams the ground to deal Fire DMG and create a Fire Pillar.",
         "tags": [
             "Attack",
@@ -465,7 +465,7 @@
     },
     {
         "name": "Shout of Justice",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_CourageCry_01.png",
+        "image1": "images\\33.png",
         "description": "Dampens enemy damage within range during its duration, temporarily recovars HP, and removes Status Effects during Skill duration.",
         "tags": [
             "Attack",
@@ -478,7 +478,7 @@
     },
     {
         "name": "Fierce Strike",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Smash_01.png",
+        "image1": "images\\34.png",
         "description": "Summons a hammer to deal Physical damage to multiple enemies. Periodically summons a giant hammer to deal even more damage instead.",
         "tags": [
             "Attack",
@@ -491,7 +491,7 @@
     },
     {
         "name": "Fire Storm",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_FireStorm_01.png",
+        "image1": "images\\35.png",
         "description": "Spin in place to create a Fire Storm. Chance to cause a new Fire Storm upon killing a Burning enemy.",
         "tags": [
             "Attack",
@@ -505,7 +505,7 @@
     },
     {
         "name": "Seal of Physical Domain",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_AuraOfReleasePhyDmg_01.png",
+        "image1": "images\\36.png",
         "description": "Decreases Target's Physical DMG Taken.",
         "tags": [
             "Spell",
@@ -517,7 +517,7 @@
     },
     {
         "name": "Seal of Striking",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_AuraOfHit_01.png",
+        "image1": "images\\37.png",
         "description": "Amplifies Target's Strike DMG.",
         "tags": [
             "Spell",
@@ -529,7 +529,7 @@
     },
     {
         "name": "Imperfect Skill Rune (Red)",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_IncompleteA_01.png",
+        "image1": "images\\38.png",
         "description": "An imperfect Skill Rune. Unusable, but can be spend as an ingredient for synthesis.",
         "tags": [],
         "mana_cost": "Mana cost 0. ",
@@ -537,7 +537,7 @@
     },
     {
         "name": "Spread Shot",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_SpreadArrow_01.png",
+        "image1": "images\\39.png",
         "description": "Fires several arrows over a wide area to inflict physical damage on the enemy.",
         "tags": [
             "Attack",
@@ -551,7 +551,7 @@
     },
     {
         "name": "Explosive Arrow",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ExplosionArrow_01.png",
+        "image1": "images\\40.png",
         "description": "Fires an exploding arrow to deal damage to the enemy. Killing an enemy with an attached arrow inflicts additional explosion damage.",
         "tags": [
             "Attack",
@@ -567,7 +567,7 @@
     },
     {
         "name": "Icy Arrow",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_FrostArrow_01.png",
+        "image1": "images\\41.png",
         "description": "Fires an icy arrow to damage the enemy. Frost Spheres are formed along the arrow's path inflicting additional damage with an explosion.",
         "tags": [
             "Attack",
@@ -585,7 +585,7 @@
     },
     {
         "name": "Rapid Shot",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_BarrageShot_01.png",
+        "image1": "images\\42.png",
         "description": "Fires multiple arrows in a straight line to inflict physical damage on the enemy.",
         "tags": [
             "Attack",
@@ -600,7 +600,7 @@
     },
     {
         "name": "Poison Cloud",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_PoisonEruption_01.png",
+        "image1": "images\\43.png",
         "description": "Forms a poisonous cloud around the caster to deal Poison DMG to enemies.",
         "tags": [
             "Spell",
@@ -614,7 +614,7 @@
     },
     {
         "name": "Piercing Arrow",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_SharpenArrow_01.png",
+        "image1": "images\\44.png",
         "description": "Fires an arrow that pierces all enemies to inflict damage.",
         "tags": [
             "Attack",
@@ -630,7 +630,7 @@
     },
     {
         "name": "Rain of Arrows",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_RainofArrows_01.png",
+        "image1": "images\\45.png",
         "description": "Temporarily calls down a Rain of Arrows to damage enemies.",
         "tags": [
             "Attack",
@@ -648,7 +648,7 @@
     },
     {
         "name": "Burn Arrow",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ClusterBombArrow_01.png",
+        "image1": "images\\46.png",
         "description": "Shoots a Fire arrow that causes Burn and inflicts damage on the enemy.",
         "tags": [
             "Attack",
@@ -663,7 +663,7 @@
     },
     {
         "name": "Cross Lightning Arrow",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ShockShot_01.png",
+        "image1": "images\\47.png",
         "description": "Fires an arrow that explodes in a cross shape to inflict damage on the enemy.",
         "tags": [
             "Attack",
@@ -680,7 +680,7 @@
     },
     {
         "name": "Dagger Throw",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ThrowDagger_01.png",
+        "image1": "images\\48.png",
         "description": "Throws a dagger to damage the enemy. Inflicts additional damage by bouncing off surrounding enemies on hit.",
         "tags": [
             "Attack",
@@ -694,7 +694,7 @@
     },
     {
         "name": "Roll",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Roll_01.png",
+        "image1": "images\\49.png",
         "description": "Rolls a shout distance forward.",
         "tags": [
             "Attack",
@@ -706,7 +706,7 @@
     },
     {
         "name": "Cross Slash",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_CrossingoverSlash_01.png",
+        "image1": "images\\50.png",
         "description": "Cross your weapons to deal damage twice to enemies in front of you.",
         "tags": [
             "Attack",
@@ -720,7 +720,7 @@
     },
     {
         "name": "Illusion Strike",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_PhantomRaven_01.png",
+        "image1": "images\\51.png",
         "description": "Moves forward to inflict damage on enemies. Chance to cause Status Effects on Strikes and Critical Hits.",
         "tags": [
             "Attack",
@@ -735,7 +735,7 @@
     },
     {
         "name": "Piercing Sentry",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_SharpenCrossbow_01.png",
+        "image1": "images\\52.png",
         "description": "Piercing Sentry has the Strike, Physical, Projectile tags.",
         "tags": [
             "Attack",
@@ -748,7 +748,7 @@
     },
     {
         "name": "Fan Blade Sentry",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_SpreadCrossbow_01.png",
+        "image1": "images\\53.png",
         "description": "Fan Blade Sentry has the Strike, Physical, Projectile tags.",
         "tags": [
             "Attack",
@@ -759,7 +759,7 @@
     },
     {
         "name": "Electric Sentry",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_DischargeCrossbow_01.png",
+        "image1": "images\\54.png",
         "description": "Electric Sentry has the Strike, Lightning, Projectile tags.",
         "tags": [
             "Attack",
@@ -771,7 +771,7 @@
     },
     {
         "name": "Venom Fang",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_PoisonFang_01.png",
+        "image1": "images\\55.png",
         "description": "Swings a Dagger to deal Area damage. Range increases every time you deal damage to the enemy.",
         "tags": [
             "Attack",
@@ -785,7 +785,7 @@
     },
     {
         "name": "Shadow Forest",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ShadowForest_01.png",
+        "image1": "images\\56.png",
         "description": "Creates an artificial space that deals DoT to enemies.",
         "tags": [
             "Spell",
@@ -798,7 +798,7 @@
     },
     {
         "name": "Blade of Death",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_DeathKnife_01.png",
+        "image1": "images\\57.png",
         "description": "Throws a dagger that returns to the caster.",
         "tags": [
             "Spell",
@@ -814,7 +814,7 @@
     },
     {
         "name": "Bombardment Arrow",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_BombingArrow_01.png",
+        "image1": "images\\58.png",
         "description": "Fires an arrow that bombards a large area.",
         "tags": [
             "Attack",
@@ -832,7 +832,7 @@
     },
     {
         "name": "Venomous Strength",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_PowerofPoison_01.png",
+        "image1": "images\\59.png",
         "description": "Stabs forward to deal damage. Attack Speed and Poison damage increases with every attack.",
         "tags": [
             "Attack",
@@ -846,7 +846,7 @@
     },
     {
         "name": "Unleash Lighting Shot",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ThunderboltArrow_01.png",
+        "image1": "images\\60.png",
         "description": "Fires an arrow that causes an electric shock. Erupts lightning bolts on impact on a Shocked target.",
         "tags": [
             "Attack",
@@ -861,7 +861,7 @@
     },
     {
         "name": "Frost Sentry",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_DetailedCrossbow_01.png",
+        "image1": "images\\61.png",
         "description": "Frost Sentry has the Strike, Area of Effect, Cold, Projectile tags.",
         "tags": [
             "Attack",
@@ -874,7 +874,7 @@
     },
     {
         "name": "Vital Strike",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Blow_01.png",
+        "image1": "images\\62.png",
         "description": "Increases Critical Rate and Critical DMG during skill duration.",
         "tags": [
             "Spell",
@@ -886,7 +886,7 @@
     },
     {
         "name": "Marksman",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_MaskMan_01.png",
+        "image1": "images\\63.png",
         "description": "Increases Projectile DMG and Pierce Count during skill duration.",
         "tags": [
             "Spell",
@@ -898,7 +898,7 @@
     },
     {
         "name": "Illusion Arrow",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_PhantomArrow_01.png",
+        "image1": "images\\64.png",
         "description": "Chance to automatically fire a Guided Arrow upon reaching stack count with Bow Skills.",
         "tags": [
             "Attack",
@@ -916,7 +916,7 @@
     },
     {
         "name": "Poison Explosion",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_PoisonBurst_01.png",
+        "image1": "images\\65.png",
         "description": "Chance to cause Poison Explosion in the surrounding area upon reaching stack count by inflicting Poison.",
         "tags": [
             "Attack",
@@ -931,7 +931,7 @@
     },
     {
         "name": "Counterattack",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_CounterStrike_01.png",
+        "image1": "images\\66.png",
         "description": "Chance to deal damage to the enemy upon dodging an stack.",
         "tags": [
             "Attack",
@@ -945,7 +945,7 @@
     },
     {
         "name": "Improved Senses",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_IncreaseSence_01.png",
+        "image1": "images\\67.png",
         "description": "Gains a temporary Enhance effect based on the number of Daggers equipped upon using a Skill.",
         "tags": [
             "Spell",
@@ -957,7 +957,7 @@
     },
     {
         "name": "Freeze Arrow",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_CoolingArrow_01.png",
+        "image1": "images\\68.png",
         "description": "Fires multiple arrows that freeze the enemy to deal damage and cause an additional Cold Explosion upon afflicting Freeze.",
         "tags": [
             "Attack",
@@ -974,7 +974,7 @@
     },
     {
         "name": "Scorching Arrow",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_BurningArrow_01.png",
+        "image1": "images\\69.png",
         "description": "Fires a burning arrow. Gains Maintan Position effect on hit and fires an additional arrow based on the number of stacks.",
         "tags": [
             "Attack",
@@ -991,7 +991,7 @@
     },
     {
         "name": "Lightning Arrow",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ArcArrow_01.png",
+        "image1": "images\\70.png",
         "description": "Fires arrows in a row to deal Lightning Damage on the enemy. Obtain Lightning Energy at a certain chance, increase Damage and Attack Speed per Lightning Energy.",
         "tags": [
             "Attack",
@@ -1005,7 +1005,7 @@
     },
     {
         "name": "Shockwave Trap",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_EarthquakeTrap_01.png",
+        "image1": "images\\71.png",
         "description": "Installs a Trap that explodes to deal Physical damage upon detecting an enemy.",
         "tags": [
             "Attack",
@@ -1019,7 +1019,7 @@
     },
     {
         "name": "Flame Fissure Trap",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_FlameCrackTrap_01.png",
+        "image1": "images\\72.png",
         "description": "Installs a Trap that explodes to deal Fire damage upon detecting an enemy.",
         "tags": [
             "Attack",
@@ -1033,7 +1033,7 @@
     },
     {
         "name": "Frost Trap",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ChillzoneTrap_01.png",
+        "image1": "images\\73.png",
         "description": "Frost spheres explode upon detection, setting up a trap that deals Frost damage to enemies.",
         "tags": [
             "Attack",
@@ -1051,7 +1051,7 @@
     },
     {
         "name": "Electric Sphere Trap",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ElectricsphereTrap_01.png",
+        "image1": "images\\74.png",
         "description": "Set up a trap that fires a random flying ball of electricity when it detects an enemy, dealing electrical damage.",
         "tags": [
             "Attack",
@@ -1066,7 +1066,7 @@
     },
     {
         "name": "Poison Gas Trap",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_PoisonGasTrap_01.png",
+        "image1": "images\\75.png",
         "description": "When it detects an enemy, it sets a trap that leaves poison gas and deals poison damage to the enemy.",
         "tags": [
             "Attack",
@@ -1080,7 +1080,7 @@
     },
     {
         "name": "Activate Trap",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_DetonateTrap_01.png",
+        "image1": "images\\76.png",
         "description": "Forces all installed Traps to activate.",
         "tags": [
             "Spell",
@@ -1091,7 +1091,7 @@
     },
     {
         "name": "Shockwave Sentry",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_AutoCrossbow_01.png",
+        "image1": "images\\77.png",
         "description": "Shockwave Sentry has the Strike, Physical, Projectile tags.",
         "tags": [
             "Attack",
@@ -1104,7 +1104,7 @@
     },
     {
         "name": "Penetrating Slash",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_FlickerSlash_01.png",
+        "image1": "images\\78.png",
         "description": "Moves forward, inflicting Physical damage on enemies in your path.",
         "tags": [
             "Attack",
@@ -1118,7 +1118,7 @@
     },
     {
         "name": "Poison Rain of Arrows",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_AbyssalArrow_01.png",
+        "image1": "images\\79.png",
         "description": "Fires an arrow into the air to inflict damage on the enemy.",
         "tags": [
             "Attack",
@@ -1136,7 +1136,7 @@
     },
     {
         "name": "Attack Impulse",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Impulse_01.png",
+        "image1": "images\\80.png",
         "description": "Temporarily increases Attack Speed and Physical DMG based on the user's Dexterity upon use.",
         "tags": [
             "Spell",
@@ -1148,7 +1148,7 @@
     },
     {
         "name": "Seal of Accuracy",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_AuraOfAccuracy_01.png",
+        "image1": "images\\81.png",
         "description": "Increases Accuracy.",
         "tags": [
             "Spell",
@@ -1160,7 +1160,7 @@
     },
     {
         "name": "Seal of Dodge",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_AuraOfEvasion_01.png",
+        "image1": "images\\82.png",
         "description": "Increases own Evasion.",
         "tags": [
             "Spell",
@@ -1172,7 +1172,7 @@
     },
     {
         "name": "Seal of Critical Chance",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_AuraOfCritProc_01.png",
+        "image1": "images\\83.png",
         "description": "Increases Critical Chance.",
         "tags": [
             "Spell",
@@ -1184,7 +1184,7 @@
     },
     {
         "name": "Sentry Expert",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_CrossbowMaster_01.png",
+        "image1": "images\\84.png",
         "description": "Changes Sentry Stats according to the situation.",
         "tags": [
             "Spell",
@@ -1197,7 +1197,7 @@
     },
     {
         "name": "Fireball Trap",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_FireballTrap_01.png",
+        "image1": "images\\85.png",
         "description": "Set up a trap that fires a randomly exploding sphere of fire upon detection of an enemy, dealing Fire damage.",
         "tags": [
             "Attack",
@@ -1214,7 +1214,7 @@
     },
     {
         "name": "Chill Zone Trap",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ColdwaterfallTrap_01.png",
+        "image1": "images\\86.png",
         "description": "Place a trap that leaves a chill zone when it detects an enemy and deals Frost damage.",
         "tags": [
             "Attack",
@@ -1228,7 +1228,7 @@
     },
     {
         "name": "Shockwave Arrow",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_PuntureShot_01.png",
+        "image1": "images\\87.png",
         "description": "Fires an arrow that pierces through a short distance to deal damage to enemies.",
         "tags": [
             "Attack",
@@ -1245,7 +1245,7 @@
     },
     {
         "name": "Spinning Dagger",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_PhantomBurst_01.png",
+        "image1": "images\\88.png",
         "description": "Fires a spinning dagger that pierces through enemies in a straight line, dealing damage.",
         "tags": [
             "Attack",
@@ -1261,7 +1261,7 @@
     },
     {
         "name": "Veil of Protection",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_MeleeGuard_01.png",
+        "image1": "images\\89.png",
         "description": "Decreases Melee or Projectile DMG Taken whenever a Skill is used.",
         "tags": [
             "Spell",
@@ -1273,7 +1273,7 @@
     },
     {
         "name": "Seal of Chaos Resist",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_AuraOfChaosResist_01.png",
+        "image1": "images\\90.png",
         "description": "Increase Chaos Resist.",
         "tags": [
             "Spell",
@@ -1285,7 +1285,7 @@
     },
     {
         "name": "Enchanted Crossbow",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_AlchemyCrossbow_01.png",
+        "image1": "images\\91.png",
         "description": "When focusing, increases the attack speed of nearby Crossbows in proportion to the number of stacks.",
         "tags": [
             "Spell",
@@ -1297,7 +1297,7 @@
     },
     {
         "name": "Imperfect Skill Rune (Green)",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_IncompleteB_01.png",
+        "image1": "images\\92.png",
         "description": "An imperfect Skill Rune. Unusable, but can be spend as an ingredient for synthesis.",
         "tags": [],
         "mana_cost": "Mana cost 0. ",
@@ -1305,7 +1305,7 @@
     },
     {
         "name": "Summon Abyssling",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_SummonImp_01.png",
+        "image1": "images\\93.png",
         "description": "Abyssling has the Strike, Area of Effect, Physical, Melee tags.",
         "tags": [
             "Spell",
@@ -1317,7 +1317,7 @@
     },
     {
         "name": "Gather Minions",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_SummonRecall_01.png",
+        "image1": "images\\94.png",
         "description": "Summons all Minions to the caster's location.",
         "tags": [
             "Spell",
@@ -1328,7 +1328,7 @@
     },
     {
         "name": "Fire Ball",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_FireBall_01.png",
+        "image1": "images\\95.png",
         "description": "Fires a fire ball that explodes on hit to deal fire damage.",
         "tags": [
             "Spell",
@@ -1342,7 +1342,7 @@
     },
     {
         "name": "Frost Ball",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_IceBall_01.png",
+        "image1": "images\\96.png",
         "description": "Fires a slow-moving Frost Sphere that pierces enemies in its path to deal cold damage.",
         "tags": [
             "Spell",
@@ -1357,7 +1357,7 @@
     },
     {
         "name": "Frost shock",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_FrostShock_01.png",
+        "image1": "images\\97.png",
         "description": "Forms an area of Ice Thorns around the caster to deal Cold DMG yo enemies.",
         "tags": [
             "Spell",
@@ -1371,7 +1371,7 @@
     },
     {
         "name": "Poison Orb",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_PoisonBead_01.png",
+        "image1": "images\\98.png",
         "description": "Throws a poison orb that bounces forward and deals Poison DMG to enemy.",
         "tags": [
             "Spell",
@@ -1387,7 +1387,7 @@
     },
     {
         "name": "Lightning Typhoon",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_LightningStorm_01.png",
+        "image1": "images\\99.png",
         "description": "Temporarily summons a Lightning Typhooon that follows enemies to deal Lighting DMG.",
         "tags": [
             "Spell",
@@ -1404,7 +1404,7 @@
     },
     {
         "name": "Frost Thorn",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_IceSpear_01.png",
+        "image1": "images\\100.png",
         "description": "Fires a series of frost spikes, dealing Frost damage to enemies.",
         "tags": [
             "Spell",
@@ -1418,7 +1418,7 @@
     },
     {
         "name": "Flamethrower",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_FireThrower_01.png",
+        "image1": "images\\101.png",
         "description": "Deals fire damage, increasing range and amplifying damage for each Channeling stage. Causes Fire Explosion upon canceling Channeling.",
         "tags": [
             "Spell",
@@ -1433,7 +1433,7 @@
     },
     {
         "name": "Charge Release",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ElectricDisChage_01.png",
+        "image1": "images\\102.png",
         "description": "Fires several electric currents to deal Lightning DMG on the enemy.",
         "tags": [
             "Spell",
@@ -1447,7 +1447,7 @@
     },
     {
         "name": "Toxic Flame",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ToxicSoul_01.png",
+        "image1": "images\\103.png",
         "description": "Fires a piercing toxic flame that deals Poison DoT. Is not affected by Projectile DMG.",
         "tags": [
             "Spell",
@@ -1462,7 +1462,7 @@
     },
     {
         "name": "Summon Javelin Abyssling",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_MageImp_01.png",
+        "image1": "images\\104.png",
         "description": "Javelin Abyssling has the Strike, Physical, Projectile tags.",
         "tags": [
             "Spell",
@@ -1474,7 +1474,7 @@
     },
     {
         "name": "Unite Crowd (Enrage)",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_CrowdBind_01.png",
+        "image1": "images\\105.png",
         "description": "Changes your Minion's active stance every time this skill is used.",
         "tags": [
             "Spell",
@@ -1487,7 +1487,7 @@
     },
     {
         "name": "Summon Bursting Rune Knight",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_FireGolem_01.png",
+        "image1": "images\\106.png",
         "description": "Bursting Rune Knight has the Strike, Area of Effect, Fire, Melee tags.",
         "tags": [
             "Spell",
@@ -1499,7 +1499,7 @@
     },
     {
         "name": "Sacred Devotion",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_LifeDevotion_01.png",
+        "image1": "images\\107.png",
         "description": "Decreases the caster's Armor and all Element Resist while channelimg, but increases Minion DMG.",
         "tags": [
             "Spell",
@@ -1510,7 +1510,7 @@
     },
     {
         "name": "Cold Armor",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_IceShield_01.png",
+        "image1": "images\\108.png",
         "description": "Forms an ice barrier that inflict Cold DMG and causes Chill to attackers when hit by a melee attack.",
         "tags": [
             "Spell",
@@ -1523,7 +1523,7 @@
     },
     {
         "name": "Lightning chain",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Chainlighting_01.png",
+        "image1": "images\\109.png",
         "description": "Discharges lightning that chains to deal lightning damage to multiple enemies.",
         "tags": [
             "Spell",
@@ -1535,7 +1535,7 @@
     },
     {
         "name": "Meteor",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Meteor_01.png",
+        "image1": "images\\110.png",
         "description": "Drops a huge meteorite in front, dealing damage to enemies within range.",
         "tags": [
             "Spell",
@@ -1552,7 +1552,7 @@
     },
     {
         "name": "Poison Area",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_PoisonFlare_01.png",
+        "image1": "images\\111.png",
         "description": "Temporarily forms a poisonius area to deal Poison DMG to enemies.",
         "tags": [
             "Spell",
@@ -1564,7 +1564,7 @@
     },
     {
         "name": "Plague Spike",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_PoisonBone_01.png",
+        "image1": "images\\112.png",
         "description": "Fires plague spikes to deal Poison DMG to the enemy. Chance to spread Plague on hit to inflict DoT on nearby enemies.",
         "tags": [
             "Spell",
@@ -1579,7 +1579,7 @@
     },
     {
         "name": "Frost Bomb",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_IceBomb_01.png",
+        "image1": "images\\113.png",
         "description": "Fires a Frost Bomb that explodes after a period of time. Upon explosion, shoots several Ice Shards to deal Cold DMG on the enemy.",
         "tags": [
             "Spell",
@@ -1593,7 +1593,7 @@
     },
     {
         "name": "Thunderbolt",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ThunderStrike_01.png",
+        "image1": "images\\114.png",
         "description": "Chance to call down Lightning and deal damage to the attacker when hit by a melee attack.",
         "tags": [
             "Spell",
@@ -1606,7 +1606,7 @@
     },
     {
         "name": "Summon Fire Orb Abyssling",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_FireImp01_01.png",
+        "image1": "images\\115.png",
         "description": "Fire Orb Abyssling has the Strike, Range, Area of Effect, Fire, Projectile tags.",
         "tags": [
             "Spell",
@@ -1619,7 +1619,7 @@
     },
     {
         "name": "Summon Poison Arrow Abyssling",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_PoisonImp01_01.png",
+        "image1": "images\\116.png",
         "description": "Poison Arrow Abyssling has the Strike, Poison, Projectile tags.",
         "tags": [
             "Spell",
@@ -1632,7 +1632,7 @@
     },
     {
         "name": "Summon Lightning Arrow Abyssling",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_LightningImp01_01.png",
+        "image1": "images\\117.png",
         "description": "Lightning Arrow Abyssling has the Strike, Lightning, Projectile tags.",
         "tags": [
             "Spell",
@@ -1646,7 +1646,7 @@
     },
     {
         "name": "Summon Snow Orb Abyssling",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ColdImp01_01.png",
+        "image1": "images\\118.png",
         "description": "Snow Orb Abyssling has the Strike, Cold, Projectile tags.",
         "tags": [
             "Spell",
@@ -1659,7 +1659,7 @@
     },
     {
         "name": "Mark of Focus",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ForceAttack_01.png",
+        "image1": "images\\119.png",
         "description": "Marks an enemy for a period of time. The marked enemy becomes the target of minion attacks and receives increased damage from Minions.",
         "tags": [
             "Spell",
@@ -1671,7 +1671,7 @@
     },
     {
         "name": "Siphon Life",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_SkinHardening_01.png",
+        "image1": "images\\120.png",
         "description": "Grants enemy HP Absorb effect to yourself and allies during skill duration.",
         "tags": [
             "Attack",
@@ -1683,7 +1683,7 @@
     },
     {
         "name": "Summon Arctic Rune Knight",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_IceGolem_01.png",
+        "image1": "images\\121.png",
         "description": "Arctic Rune Knight has the Strike, Area of Effect, Cold, Melee tags.",
         "tags": [
             "Spell",
@@ -1695,7 +1695,7 @@
     },
     {
         "name": "Summon Lightning Rune Knight",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_LightningGolem_01.png",
+        "image1": "images\\122.png",
         "description": "Lightning Rune Knight has the Strike, Area of Effect, Lightning, Melee tags.",
         "tags": [
             "Spell",
@@ -1707,7 +1707,7 @@
     },
     {
         "name": "Release Element",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ElementalOutput_01.png",
+        "image1": "images\\123.png",
         "description": "Amplifies Element DMG and inreases Cast Speed during skill duration.",
         "tags": [
             "Spell",
@@ -1719,7 +1719,7 @@
     },
     {
         "name": "Intensify Pain",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Painful_01.png",
+        "image1": "images\\124.png",
         "description": "Increases DoT Rate? Duration? and DMG during skill duration.",
         "tags": [
             "Spell",
@@ -1731,7 +1731,7 @@
     },
     {
         "name": "Cold Outburst",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_IceLance.png",
+        "image1": "images\\125.png",
         "description": "Launches nultiple Ice Spikes forward. Deals damage beyond the target with Ice Shards.",
         "tags": [
             "Spell",
@@ -1749,7 +1749,7 @@
     },
     {
         "name": "Weaken Element Totem",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ElementalWeak.png",
+        "image1": "images\\126.png",
         "description": "Summons a Totem that increases Element DMG Taken by enemies.",
         "tags": [
             "Spell",
@@ -1760,7 +1760,7 @@
     },
     {
         "name": "Tremor Totem",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Tremor.png",
+        "image1": "images\\127.png",
         "description": "Summons a Totem that dampens Movement Speed and Attack Speed of enemies.",
         "tags": [
             "Spell",
@@ -1771,7 +1771,7 @@
     },
     {
         "name": "Protection Totem",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Healing.png",
+        "image1": "images\\128.png",
         "description": "Summons a Totem that increases Barrier and decreases Barrier Regen Cycle of allies.",
         "tags": [
             "Spell",
@@ -1782,7 +1782,7 @@
     },
     {
         "name": "Life totem",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Life.png",
+        "image1": "images\\129.png",
         "description": "Summons a Totem that increases HP Regen for allies.",
         "tags": [
             "Spell",
@@ -1793,7 +1793,7 @@
     },
     {
         "name": "Mist Totem",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Fog.png",
+        "image1": "images\\130.png",
         "description": "Summons a totem that reduces the enemy's hit rate and criticality.",
         "tags": [
             "Spell",
@@ -1804,7 +1804,7 @@
     },
     {
         "name": "Electromagnetic Field",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ElectromagneticField.png",
+        "image1": "images\\131.png",
         "description": "Releases an Electric Sphere that instantly draws enemies to the center.",
         "tags": [
             "Spell",
@@ -1817,7 +1817,7 @@
     },
     {
         "name": "Teleport",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Teleport_01.png",
+        "image1": "images\\132.png",
         "description": "Teleports forward. Temporarily increases Element Resist after teleporting.",
         "tags": [
             "Spell",
@@ -1829,7 +1829,7 @@
     },
     {
         "name": "Agile Movement",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ShadowStep_01.png",
+        "image1": "images\\133.png",
         "description": "If you take damage while maintaining the skill, you receive a buff that reduces damage in proportion to your Zodiac Evasion for a certain period of time.",
         "tags": [
             "Spell",
@@ -1841,7 +1841,7 @@
     },
     {
         "name": "Pantheon",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Mystery_01.png",
+        "image1": "images\\134.png",
         "description": "Enhances your Barrier to greatly increase Barrier Regen.",
         "tags": [
             "Spell",
@@ -1853,7 +1853,7 @@
     },
     {
         "name": "Fire torrent",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_PhoenixAttack_01.png",
+        "image1": "images\\135.png",
         "description": "Channels to temporarily summon a Fire Torrent. Flames periodically spew out from the torrent to track down enemies. Attacks grow faster with longer channeling.",
         "tags": [
             "Spell",
@@ -1870,7 +1870,7 @@
     },
     {
         "name": "Electric Ball",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_LightningBall_01.png",
+        "image1": "images\\136.png",
         "description": "Fires an electric ball that periodically explodes. Explosions deal Lightning DMG to nearby enemies.",
         "tags": [
             "Spell",
@@ -1887,7 +1887,7 @@
     },
     {
         "name": "Sacred Light",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Penitence_01.png",
+        "image1": "images\\137.png",
         "description": "Deals DMG with the highest Element while Channeling. DMG penetrates Element Resist at maximum Enhance Effect stacks.",
         "tags": [
             "Spell",
@@ -1905,7 +1905,7 @@
     },
     {
         "name": "Summon Wrathful Rune Knight",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_RageGolem_01.png",
+        "image1": "images\\138.png",
         "description": "Wrathful Rune Knight has the Strike, Area of Effect, Physical, Melee tags.",
         "tags": [
             "Spell",
@@ -1917,7 +1917,7 @@
     },
     {
         "name": "Spell Protection Totem",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_LesEleDmgTotem.png",
+        "image1": "images\\139.png",
         "description": "Summons a totem that blocks enemy spells, reducing damage.",
         "tags": [
             "Spell",
@@ -1928,7 +1928,7 @@
     },
     {
         "name": "Seal of Condensed Elements",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_AuraOfElemental_01.png",
+        "image1": "images\\140.png",
         "description": "Increases Element DMG.",
         "tags": [
             "Spell",
@@ -1940,7 +1940,7 @@
     },
     {
         "name": "Seal of Element Resist",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_AuraOfElementalResist_01.png",
+        "image1": "images\\141.png",
         "description": "Increases Element Resist for all Elements.",
         "tags": [
             "Spell",
@@ -1952,7 +1952,7 @@
     },
     {
         "name": "Summon Twisted Abyssling",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_TwistedImp.png",
+        "image1": "images\\142.png",
         "description": "Twisted Abyssling has the Strike, Area of Effect, Physical, Melee tags.",
         "tags": [
             "Spell",
@@ -1964,7 +1964,7 @@
     },
     {
         "name": "Judgment of Light",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Judgmentoflight.png",
+        "image1": "images\\143.png",
         "description": "Deals damage to the target with the highest elemental attribute. Increases damage on hit and increases mana cost. Buffs are reset when using other skills.",
         "tags": [
             "Spell",
@@ -1980,7 +1980,7 @@
     },
     {
         "name": "Energy absorption",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Energyabsorption.png",
+        "image1": "images\\144.png",
         "description": "Consumes energy to increase elemental damage.",
         "tags": [
             "Spell",
@@ -1992,7 +1992,7 @@
     },
     {
         "name": "Lightning Pulse",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_LightningWave.png",
+        "image1": "images\\145.png",
         "description": "Consumes all of the energy of lightning to unleash a wave of lightning in front of you, dealing lightning damage.",
         "tags": [
             "Spell",
@@ -2005,7 +2005,7 @@
     },
     {
         "name": "Blizzard",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_ColdWave_01.png",
+        "image1": "images\\146.png",
         "description": "Summons a powerful Blizzard that damages enemies in front of the caster.",
         "tags": [
             "Spell",
@@ -2021,7 +2021,7 @@
     },
     {
         "name": "Wind totem",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_Wind.png",
+        "image1": "images\\147.png",
         "description": "Summons a totem that increases cast and attack speed of allies.",
         "tags": [
             "Spell",
@@ -2032,7 +2032,7 @@
     },
     {
         "name": "Seal of Elemental Domain",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_AuraOfReleaseEleDmg_01.png",
+        "image1": "images\\148.png",
         "description": "Decreases Element DMG Taken.",
         "tags": [
             "Spell",
@@ -2044,7 +2044,7 @@
     },
     {
         "name": "Seal of Pain",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_AuraOfPain_01.png",
+        "image1": "images\\149.png",
         "description": "Amplifies DoT.",
         "tags": [
             "Spell",
@@ -2056,7 +2056,7 @@
     },
     {
         "name": "Imperfect Skill Rune (Blue)",
-        "image": "http://www.vhpg.com/t/undecember/Icon_Skill_IncompleteC_01.png",
+        "image1": "images\\150.png",
         "description": "An imperfect Skill Rune. Unusable, but can be spend as an ingredient for synthesis.",
         "tags": [],
         "mana_cost": "Mana cost 0. ",
@@ -2064,7 +2064,7 @@
     },
     {
         "name": "Knockback",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\151.png",
         "description": "Can be linked with Melee Attack Skills.",
         "tags": [
             "Melee",
@@ -2075,7 +2075,7 @@
     },
     {
         "name": "Additional Physical DMG",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\152.png",
         "description": "Can be linked with Physical DMG Skills",
         "tags": [
             "Physical"
@@ -2085,7 +2085,7 @@
     },
     {
         "name": "Additional fire damage",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\153.png",
         "description": "Can be linked with Fire DMG Skills",
         "tags": [
             "Fire"
@@ -2095,7 +2095,7 @@
     },
     {
         "name": "Endless Pain",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\154.png",
         "description": "Can be linked with Physical Strike Skills",
         "tags": [
             "Physical",
@@ -2106,7 +2106,7 @@
     },
     {
         "name": "Bloodthirst",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\155.png",
         "description": "Can be linked with Physical Strike Skills",
         "tags": [
             "Physical",
@@ -2117,7 +2117,7 @@
     },
     {
         "name": "Armor Penetration",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\156.png",
         "description": "Can be linked with Physical DMG Skills",
         "tags": [
             "Physical"
@@ -2127,7 +2127,7 @@
     },
     {
         "name": "Ignite",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\157.png",
         "description": "Can be linked with Fire Strike Skills",
         "tags": [
             "Fire",
@@ -2138,7 +2138,7 @@
     },
     {
         "name": "Blazing flame",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\158.png",
         "description": "Can be linked with Fire Strike Skills",
         "tags": [
             "Fire",
@@ -2149,7 +2149,7 @@
     },
     {
         "name": "Area Effect",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\159.png",
         "description": "Can be linked with Area DMG Skills",
         "tags": [
             "Strike",
@@ -2160,7 +2160,7 @@
     },
     {
         "name": "Concentrated Area DMG",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\160.png",
         "description": "Can be linked with Area DMG Skills",
         "tags": [
             "Strike",
@@ -2171,7 +2171,7 @@
     },
     {
         "name": "Decrease Duration",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\161.png",
         "description": "Can be linked with Skills with duration.",
         "tags": [
             "Duration"
@@ -2181,7 +2181,7 @@
     },
     {
         "name": "Fire Penetration",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\162.png",
         "description": "Can be linked with Fire DMG Skills",
         "tags": [
             "Fire"
@@ -2191,7 +2191,7 @@
     },
     {
         "name": "Confidence",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\163.png",
         "description": "Can be linked with DMG Skills",
         "tags": [
             "Strike",
@@ -2202,7 +2202,7 @@
     },
     {
         "name": "Regenerative",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\164.png",
         "description": "Can be linked with Melee Attack Skills",
         "tags": [
             "Melee",
@@ -2214,7 +2214,7 @@
     },
     {
         "name": "Spell Activation on Attack Hit",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_02.png",
+        "image1": "images\\165.png",
         "description": "Can link at Attack Skill to the Activating Spell in the arrow's direction",
         "tags": [
             "Attack",
@@ -2225,7 +2225,7 @@
     },
     {
         "name": "Fire Damage Conversion",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\166.png",
         "description": "Can be linked with a Skill that deals Physical DMG that has not been set to Convert DMG.",
         "tags": [
             "Physical",
@@ -2236,7 +2236,7 @@
     },
     {
         "name": "Center of Gravity",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\167.png",
         "description": "Can be linked with DMG Skills",
         "tags": [
             "Strike",
@@ -2247,7 +2247,7 @@
     },
     {
         "name": "Overpower",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\168.png",
         "description": "Can be linked with Strike Skills",
         "tags": [
             "Strike"
@@ -2257,7 +2257,7 @@
     },
     {
         "name": "Hushed Shout",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\169.png",
         "description": "Can be linked with Shout Skills.",
         "tags": [
             "Shout"
@@ -2267,7 +2267,7 @@
     },
     {
         "name": "Savagery",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\170.png",
         "description": "Can be linked with Melee Attack Skill that use Weapon Range",
         "tags": [
             "Melee",
@@ -2278,7 +2278,7 @@
     },
     {
         "name": "Disarm",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\171.png",
         "description": "Can be linked with Movement Skills",
         "tags": [
             "Movement"
@@ -2288,7 +2288,7 @@
     },
     {
         "name": "Hunger",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\172.png",
         "description": "Can be linked with Melee Strike DMG Skills",
         "tags": [
             "Melee",
@@ -2300,7 +2300,7 @@
     },
     {
         "name": "Lingering Shout",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\173.png",
         "description": "Can be linked to Shout Skill.",
         "tags": [
             "Shout"
@@ -2310,7 +2310,7 @@
     },
     {
         "name": "Improved Shout",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\174.png",
         "description": "Can be linked to Shout Skill.",
         "tags": [
             "Shout"
@@ -2320,7 +2320,7 @@
     },
     {
         "name": "Attack DMG Increase",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\175.png",
         "description": "Can be linked with Attack DMG Skills",
         "tags": [
             "Strike",
@@ -2332,7 +2332,7 @@
     },
     {
         "name": "Trap Master",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\176.png",
         "description": "Can be linked with Trap skills.",
         "tags": [
             "Trap"
@@ -2342,7 +2342,7 @@
     },
     {
         "name": "Trap Area Effect",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\177.png",
         "description": "Can be linked with Trap skills.",
         "tags": [
             "Trap"
@@ -2352,7 +2352,7 @@
     },
     {
         "name": "Melee DMG Amplification",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\178.png",
         "description": "Can be linked with Melee Attack Skills",
         "tags": [
             "Melee",
@@ -2363,7 +2363,7 @@
     },
     {
         "name": "Preemptive Strike",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\179.png",
         "description": "Can be linked with DMG Skills",
         "tags": [
             "Strike",
@@ -2374,7 +2374,7 @@
     },
     {
         "name": "Strike",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\180.png",
         "description": "Can be linked with Strike Skills",
         "tags": [
             "Strike"
@@ -2384,7 +2384,7 @@
     },
     {
         "name": "Buff Activation when Hit",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_02.png",
+        "image1": "images\\181.png",
         "description": "Can link the Activating Shout, Attack Enhance, Defense Enhance Skill in the arrow's direction",
         "tags": [
             "Shout",
@@ -2396,7 +2396,7 @@
     },
     {
         "name": "Ignition Explosion",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\182.png",
         "description": "Can be linked with Fire Strike DMG Skills",
         "tags": [
             "Strike",
@@ -2407,7 +2407,7 @@
     },
     {
         "name": "Activate Buff upon Crowd Control",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_02.png",
+        "image1": "images\\183.png",
         "description": "Can be linked with Shout, Attack Enhance, Defense Enhance Skills",
         "tags": [
             "Shout",
@@ -2419,7 +2419,7 @@
     },
     {
         "name": "Shout of power",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\184.png",
         "description": "Can be linked with Shout Skills.",
         "tags": [
             "Shout"
@@ -2429,7 +2429,7 @@
     },
     {
         "name": "Increase Gold Gain Chance",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\185.png",
         "description": "Can be linked with Strike Skills",
         "tags": [
             "Strike"
@@ -2439,7 +2439,7 @@
     },
     {
         "name": "Increase Gold Gain Amount",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\186.png",
         "description": "Can be linked with Strike Skills",
         "tags": [
             "Strike"
@@ -2449,7 +2449,7 @@
     },
     {
         "name": "Increased Kill Experience",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\187.png",
         "description": "Can be linked with Strike Skills",
         "tags": [
             "Strike"
@@ -2459,7 +2459,7 @@
     },
     {
         "name": "Grip Strength",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\188.png",
         "description": "Can be linked with Melee Strile Skills.",
         "tags": [
             "Melee",
@@ -2471,7 +2471,7 @@
     },
     {
         "name": "Counterattack Offset",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\189.png",
         "description": "Can be linked with Hitting Skills.",
         "tags": [
             "Attack",
@@ -2483,7 +2483,7 @@
     },
     {
         "name": "Refreshment",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\190.png",
         "description": "Can be linked with Defense Enhancement Skills.",
         "tags": [
             "Defense Enhance"
@@ -2493,7 +2493,7 @@
     },
     {
         "name": "Concentrated defense",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\191.png",
         "description": "Can be linked with Defense Enhancement Skills.",
         "tags": [
             "Defense Enhance"
@@ -2503,7 +2503,7 @@
     },
     {
         "name": "Overflowing power",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\192.png",
         "description": "Can be linked with Defense Enhancement Skills.",
         "tags": [
             "Defense Enhance"
@@ -2513,7 +2513,7 @@
     },
     {
         "name": "Sentence Scope Reinforcement",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\193.png",
         "description": "Can be linked with Sentence Skills.",
         "tags": [
             "Seal"
@@ -2523,7 +2523,7 @@
     },
     {
         "name": "Slaughter chariot",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\194.png",
         "description": "May be linked with over time skill.",
         "tags": [
             "Strike",
@@ -2534,7 +2534,7 @@
     },
     {
         "name": "Tenacity",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\195.png",
         "description": "Can be linked with Melee Attack Skills",
         "tags": [
             "Melee",
@@ -2546,7 +2546,7 @@
     },
     {
         "name": "Wide area totem",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\196.png",
         "description": "Can be linked with Totem Skills",
         "tags": [
             "Totem"
@@ -2556,7 +2556,7 @@
     },
     {
         "name": "Concentrated bang",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\197.png",
         "description": "Can be linked with Bash Skills.",
         "tags": [
             "Attack",
@@ -2567,7 +2567,7 @@
     },
     {
         "name": "Cohesion",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\198.png",
         "description": "Can be linked with Abyssal Skills.",
         "tags": [
             "Minion",
@@ -2578,7 +2578,7 @@
     },
     {
         "name": "Advanced Technology",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\199.png",
         "description": "It can be linked with Attack or Spell skill.",
         "tags": [
             "Attack",
@@ -2589,7 +2589,7 @@
     },
     {
         "name": "Imperfect Link Rune (Red)",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Strength_01.png",
+        "image1": "images\\200.png",
         "description": "An imperfect Link Rune.",
         "tags": [],
         "mana_cost": "",
@@ -2597,7 +2597,7 @@
     },
     {
         "name": "Quick attack",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\201.png",
         "description": "Can be linked with Attack DMG Skills",
         "tags": [
             "Attack"
@@ -2607,7 +2607,7 @@
     },
     {
         "name": "Find Weakness",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\202.png",
         "description": "Can be linked with Hitting Skills",
         "tags": [
             "Strike"
@@ -2617,7 +2617,7 @@
     },
     {
         "name": "Additional Poison DMG",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\203.png",
         "description": "Can be linked with Poison DMG Skills",
         "tags": [
             "Poison"
@@ -2627,7 +2627,7 @@
     },
     {
         "name": "Multishot",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\204.png",
         "description": "Can be linked with Projectile Skills that are capable of Multishot",
         "tags": [
             "Projectile"
@@ -2637,7 +2637,7 @@
     },
     {
         "name": "Slaughter",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\205.png",
         "description": "Can be linked with Hitting Skills",
         "tags": [
             "Strike"
@@ -2647,7 +2647,7 @@
     },
     {
         "name": "Increase Duration",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\206.png",
         "description": "Can be linked with Skills with duration .",
         "tags": [
             "Duration"
@@ -2657,7 +2657,7 @@
     },
     {
         "name": "Piercing",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\207.png",
         "description": "Can be linked with Projectile Skills that are capable of Piercing",
         "tags": [
             "Projectile"
@@ -2667,7 +2667,7 @@
     },
     {
         "name": "Poison Penetration",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\208.png",
         "description": "Can be linked with Poison DMG skills",
         "tags": [
             "Poison"
@@ -2677,7 +2677,7 @@
     },
     {
         "name": "Projectile Acceleration",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\209.png",
         "description": "Can be linked with Skills that use Projectiles",
         "tags": [
             "Projectile"
@@ -2687,7 +2687,7 @@
     },
     {
         "name": "Precision",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\210.png",
         "description": "Can be linked with Hitting Skills",
         "tags": [
             "Strike"
@@ -2697,7 +2697,7 @@
     },
     {
         "name": "Projectile Deceleration",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\211.png",
         "description": "Can be linked with Projectile Skills",
         "tags": [
             "Projectile"
@@ -2707,7 +2707,7 @@
     },
     {
         "name": "Split Projectile",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\212.png",
         "description": "Can be linked with Projectile Skills that can be Split",
         "tags": [
             "Projectile"
@@ -2717,7 +2717,7 @@
     },
     {
         "name": "Flowing Pain",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\213.png",
         "description": "Can be linked with Poison DMG Skills",
         "tags": [
             "Strike",
@@ -2728,7 +2728,7 @@
     },
     {
         "name": "Elite Slayer",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\214.png",
         "description": "Can be linked with DMG skills",
         "tags": [
             "Strike",
@@ -2739,7 +2739,7 @@
     },
     {
         "name": "Blind Aid",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\215.png",
         "description": "Can be linked with Poison Strike DMG Skills",
         "tags": [
             "Strike",
@@ -2750,7 +2750,7 @@
     },
     {
         "name": "Deadly Poison",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\216.png",
         "description": "Can be linked with Poison DMG Skills",
         "tags": [
             "Strike",
@@ -2762,7 +2762,7 @@
     },
     {
         "name": "Convert Poison DMG",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\217.png",
         "description": "Can be linked with a Skill that deals Physical DMG that has not been set to Convert DMG.",
         "tags": [
             "Physical",
@@ -2773,7 +2773,7 @@
     },
     {
         "name": "Close Range Shot",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\218.png",
         "description": "Can be linked with Projectile Skills that require a Bow",
         "tags": [
             "Bow",
@@ -2785,7 +2785,7 @@
     },
     {
         "name": "Aim",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\219.png",
         "description": "Can be linked with Attack Skills",
         "tags": [
             "Attack"
@@ -2795,7 +2795,7 @@
     },
     {
         "name": "Chain Impact",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\220.png",
         "description": "Can be linked with Skills that are capable of being Chained.",
         "tags": [],
         "mana_cost": "Increases Resource Cost 15%. ",
@@ -2803,7 +2803,7 @@
     },
     {
         "name": "Pierce Wound",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\221.png",
         "description": "Can be linked with Projectile skills that are capable of Piercing.",
         "tags": [
             "Projectile"
@@ -2813,7 +2813,7 @@
     },
     {
         "name": "Precise Shot",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\222.png",
         "description": "Can be linked with Projectile Skills that require a Bow",
         "tags": [
             "Bow",
@@ -2825,7 +2825,7 @@
     },
     {
         "name": "Life Imbued Sentry",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\223.png",
         "description": "Can be linked with Sentry Skills.",
         "tags": [
             "Sentry"
@@ -2835,7 +2835,7 @@
     },
     {
         "name": "Precise Sentry",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\224.png",
         "description": "Can be linked with Sentry Skills.",
         "tags": [
             "Sentry"
@@ -2845,7 +2845,7 @@
     },
     {
         "name": "Sturdy Sentry",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\225.png",
         "description": "Can be linked with Sentry Skills.",
         "tags": [
             "Sentry"
@@ -2855,7 +2855,7 @@
     },
     {
         "name": "Parallel Multiple Traps",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\226.png",
         "description": "Changes how traps are placed in parallel.",
         "tags": [
             "Trap"
@@ -2865,7 +2865,7 @@
     },
     {
         "name": "Random Multiple Traps",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\227.png",
         "description": "Changes the trap placement method randomly within the placement radius.",
         "tags": [
             "Trap"
@@ -2875,7 +2875,7 @@
     },
     {
         "name": "Quick Set Trap",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\228.png",
         "description": "Can be linked to trap skills.",
         "tags": [
             "Trap"
@@ -2885,7 +2885,7 @@
     },
     {
         "name": "Increased Trap Placement Distance",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\229.png",
         "description": "Can be linked to trap skills.",
         "tags": [
             "Trap"
@@ -2895,7 +2895,7 @@
     },
     {
         "name": "Trap Projectile Multiple Shots",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\230.png",
         "description": "Can be linked to trap projectile skills.",
         "tags": [
             "Trap",
@@ -2906,7 +2906,7 @@
     },
     {
         "name": "Multi Sentry",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\231.png",
         "description": "Can be linked with Sentry Skills.",
         "tags": [
             "Sentry"
@@ -2916,7 +2916,7 @@
     },
     {
         "name": "Channeling",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\232.png",
         "description": "Can be linked with Melee Attack Skills",
         "tags": [
             "Melee",
@@ -2928,7 +2928,7 @@
     },
     {
         "name": "Spell Activation upon Enemy Kill",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_02.png",
+        "image1": "images\\233.png",
         "description": "Can link a Strike Skill to the Activating Spell in the arrow's direction",
         "tags": [
             "Strike"
@@ -2938,7 +2938,7 @@
     },
     {
         "name": "Parallel Multishot",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\234.png",
         "description": "Can be linked with a Projectile Skill that is capable of Multishot. Fires Projectiles over a horizontal spread",
         "tags": [
             "Projectile"
@@ -2948,7 +2948,7 @@
     },
     {
         "name": "Increase Item Drop Rarity",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\235.png",
         "description": "Can be linked with Strike Skills",
         "tags": [
             "Strike"
@@ -2958,7 +2958,7 @@
     },
     {
         "name": "Increase Skill Rune Drop Chance",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\236.png",
         "description": "Can be linked with Strike Skills",
         "tags": [
             "Strike"
@@ -2968,7 +2968,7 @@
     },
     {
         "name": "Increase Link Rune Drop Chance",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\237.png",
         "description": "Can be linked with Strike Skills",
         "tags": [
             "Strike"
@@ -2978,7 +2978,7 @@
     },
     {
         "name": "Effect Enhancement",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\238.png",
         "description": "Can be linked with Enhance and Shout Skills.",
         "tags": [
             "Shout",
@@ -2991,7 +2991,7 @@
     },
     {
         "name": "Amplify Physical Projectile DMG",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\239.png",
         "description": "Can be linked with Skills that use Physical Projectiles",
         "tags": [
             "Physical",
@@ -3002,7 +3002,7 @@
     },
     {
         "name": "Opportunistic Strike",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\240.png",
         "description": "Can be linked with Attack or Spell Strike Skills",
         "tags": [
             "Attack",
@@ -3014,7 +3014,7 @@
     },
     {
         "name": "Quick shout",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\241.png",
         "description": "Can be linked with shout skills.",
         "tags": [
             "Shout"
@@ -3024,7 +3024,7 @@
     },
     {
         "name": "Universal",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\242.png",
         "description": "Can be linked with attack enhancement skills",
         "tags": [
             "Attack Enhance"
@@ -3034,7 +3034,7 @@
     },
     {
         "name": "Sentry Quick Install",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\243.png",
         "description": "Can be linked with Sentry Skills",
         "tags": [
             "Sentry"
@@ -3044,7 +3044,7 @@
     },
     {
         "name": "Totem Quick Install",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\244.png",
         "description": "Can be linked with Totem Skills",
         "tags": [
             "Totem"
@@ -3054,7 +3054,7 @@
     },
     {
         "name": "Trap Damage Amplification",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\245.png",
         "description": "Can be linked to trap skills.",
         "tags": [
             "Trap"
@@ -3064,7 +3064,7 @@
     },
     {
         "name": "Lasting Trap",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\246.png",
         "description": "Can be linked to trap skills.",
         "tags": [
             "Trap"
@@ -3074,7 +3074,7 @@
     },
     {
         "name": "Cut",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\247.png",
         "description": "Can be linked with Melee Strike Skills",
         "tags": [
             "Melee",
@@ -3086,7 +3086,7 @@
     },
     {
         "name": "Imperfect Link Rune (Green)",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Agility_01.png",
+        "image1": "images\\248.png",
         "description": "An imperfect Link Rune.",
         "tags": [],
         "mana_cost": "",
@@ -3094,7 +3094,7 @@
     },
     {
         "name": "Additional Lightning DMG",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\249.png",
         "description": "Can be linked with Lightning DMG Skills",
         "tags": [
             "Lightning"
@@ -3104,7 +3104,7 @@
     },
     {
         "name": "Additional Cold DMG",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\250.png",
         "description": "Can be linked with Cold DMG Skills",
         "tags": [
             "Cold"
@@ -3114,7 +3114,7 @@
     },
     {
         "name": "Quick Cast",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\251.png",
         "description": "Can be linked with Spell Skills",
         "tags": [
             "Spell"
@@ -3124,7 +3124,7 @@
     },
     {
         "name": "Lingering chill",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\252.png",
         "description": "Can be linked with Cold Strike DMG Skills",
         "tags": [
             "Cold",
@@ -3135,7 +3135,7 @@
     },
     {
         "name": "Use Count",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\253.png",
         "description": "Can be linked with Strike that have Use Count.",
         "tags": [],
         "mana_cost": "Increases Resource Cost 20%. ",
@@ -3143,7 +3143,7 @@
     },
     {
         "name": "Frost Explosion",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\254.png",
         "description": "Can be linked with Cold Strike Skills",
         "tags": [
             "Cold",
@@ -3154,7 +3154,7 @@
     },
     {
         "name": "Cold Penetration",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\255.png",
         "description": "Can be linked with Cold DMG Skills",
         "tags": [
             "Cold"
@@ -3164,7 +3164,7 @@
     },
     {
         "name": "Lightning Penetration",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\256.png",
         "description": "Can be linked with Lighting DMG Skills",
         "tags": [
             "Lightning"
@@ -3174,7 +3174,7 @@
     },
     {
         "name": "Time Acceleration",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\257.png",
         "description": "Can be linked with Skills that have cooldowns.",
         "tags": [
             "Attack",
@@ -3185,7 +3185,7 @@
     },
     {
         "name": "Channeling Enhancement",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\258.png",
         "description": "Can be linked with Channeling skills.",
         "tags": [
             "Channel"
@@ -3195,7 +3195,7 @@
     },
     {
         "name": "Minion Speed",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\259.png",
         "description": "Can be linked with Minion Skills.",
         "tags": [
             "Minion"
@@ -3205,7 +3205,7 @@
     },
     {
         "name": "Minion HP",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\260.png",
         "description": "Can be linked with Minion Skills.",
         "tags": [
             "Minion"
@@ -3215,7 +3215,7 @@
     },
     {
         "name": "Minion Body Shield",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\261.png",
         "description": "Can be linked with Minion Skills.",
         "tags": [
             "Minion"
@@ -3225,7 +3225,7 @@
     },
     {
         "name": "Continuius Shock",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\262.png",
         "description": "Can be linked with Lightning Strike Skills",
         "tags": [
             "Lightning",
@@ -3236,7 +3236,7 @@
     },
     {
         "name": "Conductor",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\263.png",
         "description": "Can be linked with Lightning Strike Skills",
         "tags": [
             "Lightning",
@@ -3247,7 +3247,7 @@
     },
     {
         "name": "Persistence",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\264.png",
         "description": "Can be linked with Strike DMG Skills",
         "tags": [
             "Strike"
@@ -3257,7 +3257,7 @@
     },
     {
         "name": "Spell Activation on Spell Hit",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_02.png",
+        "image1": "images\\265.png",
         "description": "Can link an Attack Spell to the Activating Spell in the arrow's direction",
         "tags": [
             "Spell",
@@ -3268,7 +3268,7 @@
     },
     {
         "name": "Spell Actication while Channeling",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_02.png",
+        "image1": "images\\266.png",
         "description": "Can link a Channeling Spell to the Activating Spell in the arrow's direction",
         "tags": [
             "Channel"
@@ -3278,7 +3278,7 @@
     },
     {
         "name": "Convert Cold DMG",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\267.png",
         "description": "Can be linked with a Skill that deals Physical DMG that has not been set to Convert DMG.",
         "tags": [
             "Physical",
@@ -3289,7 +3289,7 @@
     },
     {
         "name": "Convert Lightning DMG",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\268.png",
         "description": "Can be linked with a Skill that deals Physical DMG that has not been set to Convert DMG.",
         "tags": [
             "Physical",
@@ -3300,7 +3300,7 @@
     },
     {
         "name": "Sharpness",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\269.png",
         "description": "Can be linked with Cold Strike Skills",
         "tags": [
             "Strike",
@@ -3311,7 +3311,7 @@
     },
     {
         "name": "Status Effect Enhancement",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\270.png",
         "description": "Can be linked with Hitting Skills",
         "tags": [
             "Strike"
@@ -3321,7 +3321,7 @@
     },
     {
         "name": "DoT",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\271.png",
         "description": "Can be linked with DMG Skills",
         "tags": [
             "Strike",
@@ -3332,7 +3332,7 @@
     },
     {
         "name": "Minion Armor",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\272.png",
         "description": "Can be linked with Minion Skills.",
         "tags": [
             "Minion"
@@ -3342,7 +3342,7 @@
     },
     {
         "name": "Lingering Totem",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\273.png",
         "description": "Can be linked with Totem Skills.",
         "tags": [
             "Totem"
@@ -3352,7 +3352,7 @@
     },
     {
         "name": "Life Imbued Totem",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\274.png",
         "description": "Can be linked with Totem Skills.",
         "tags": [
             "Totem"
@@ -3362,7 +3362,7 @@
     },
     {
         "name": "Enhanced Totem",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\275.png",
         "description": "Can be linked with Totem Skills.",
         "tags": [
             "Totem"
@@ -3372,7 +3372,7 @@
     },
     {
         "name": "Enhance DoT",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\276.png",
         "description": "Can be linked with DMG Skills.",
         "tags": [
             "Strike",
@@ -3383,7 +3383,7 @@
     },
     {
         "name": "Spell DMG Increase",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\277.png",
         "description": "Can be linked with Spell DMG Skills",
         "tags": [
             "Strike",
@@ -3395,7 +3395,7 @@
     },
     {
         "name": "Chain",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\278.png",
         "description": "Can be linked with Skills that are capable oof being Chained",
         "tags": [],
         "mana_cost": "Increases Resource Cost 20%. ",
@@ -3403,7 +3403,7 @@
     },
     {
         "name": "Element DMG Amplification",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\279.png",
         "description": "Can be linked with Element DMG Skills",
         "tags": [
             "Fire",
@@ -3416,7 +3416,7 @@
     },
     {
         "name": "Finishing Strike",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\280.png",
         "description": "Can be linked with Hitting Skills",
         "tags": [
             "Strike"
@@ -3426,7 +3426,7 @@
     },
     {
         "name": "Minion DMG",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\281.png",
         "description": "Can be linked with Minion Skills.",
         "tags": [
             "Minion"
@@ -3436,7 +3436,7 @@
     },
     {
         "name": "Electric Shock",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\282.png",
         "description": "Can be linked with Strike DMG Skills",
         "tags": [
             "Strike"
@@ -3446,7 +3446,7 @@
     },
     {
         "name": "Totem Affinity",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\283.png",
         "description": "Can be linked with Totem Skills.",
         "tags": [
             "Totem"
@@ -3456,7 +3456,7 @@
     },
     {
         "name": "Impact",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\284.png",
         "description": "Can be linked with Melee Strike DMG Skills",
         "tags": [
             "Melee",
@@ -3468,7 +3468,7 @@
     },
     {
         "name": "Acceleration",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\285.png",
         "description": "Can be linked with Strike Skills",
         "tags": [
             "Strike"
@@ -3478,7 +3478,7 @@
     },
     {
         "name": "Increase Essence Drop Chance",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\286.png",
         "description": "Can be linked with Strike Skills",
         "tags": [
             "Strike"
@@ -3488,7 +3488,7 @@
     },
     {
         "name": "Increase Charm Drop Chance",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\287.png",
         "description": "Can be linked with Strike Skills",
         "tags": [
             "Strike"
@@ -3498,7 +3498,7 @@
     },
     {
         "name": "Increased Alchemy Ingredient Drop Chance",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\288.png",
         "description": "Can be linked with Strike Skills",
         "tags": [
             "Strike"
@@ -3508,7 +3508,7 @@
     },
     {
         "name": "Increase Element Drop Chance",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\289.png",
         "description": "Can be linked with Strike Skills",
         "tags": [
             "Strike"
@@ -3518,7 +3518,7 @@
     },
     {
         "name": "Reduced resource consumption",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\290.png",
         "description": "Can be linked with All Skill.",
         "tags": [
             "Attack",
@@ -3529,7 +3529,7 @@
     },
     {
         "name": "Buff Activation upon using Movement Skill",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_02.png",
+        "image1": "images\\291.png",
         "description": "Can link a Movement Skill to the Activating Shout, Attack Ebhance, Defence Enhance Skill in the arrow's direction",
         "tags": [
             "Movement"
@@ -3539,7 +3539,7 @@
     },
     {
         "name": "Preserve Mana",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\292.png",
         "description": "Can be linked with Attack or Spell Skills",
         "tags": [
             "Attack",
@@ -3550,7 +3550,7 @@
     },
     {
         "name": "Barrier Absorb",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\293.png",
         "description": "Can be linked with Spell Strike Skills",
         "tags": [
             "Spell",
@@ -3561,7 +3561,7 @@
     },
     {
         "name": "Intellectual",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\294.png",
         "description": "Can be linked with Attack Enhance Skills.",
         "tags": [
             "Attack Enhance"
@@ -3571,7 +3571,7 @@
     },
     {
         "name": "Element ruler",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\295.png",
         "description": "Can be linked with Elemental Damage Skills.",
         "tags": [
             "Fire",
@@ -3584,7 +3584,7 @@
     },
     {
         "name": "Disruptive Behavior",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\296.png",
         "description": "Can be linked with Movement Skills.",
         "tags": [
             "Movement"
@@ -3594,7 +3594,7 @@
     },
     {
         "name": "Energy Harvesting",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\297.png",
         "description": "It can be linked with Hitting Skills.",
         "tags": [
             "Strike"
@@ -3604,7 +3604,7 @@
     },
     {
         "name": "Time Warp",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\298.png",
         "description": "Can only be linked with DMG Skills that do not have any Cooldowns",
         "tags": [
             "Repeat Strike",
@@ -3615,7 +3615,7 @@
     },
     {
         "name": "Mana Storm",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\299.png",
         "description": "Can be linked with DMG Skills.",
         "tags": [
             "Strike",
@@ -3626,7 +3626,7 @@
     },
     {
         "name": "Harmony",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\300.png",
         "description": "Can only be linked with Attack Spell DMG Skills",
         "tags": [
             "Attack",
@@ -3637,7 +3637,7 @@
     },
     {
         "name": "Trigger Spell on Hit",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_02.png",
+        "image1": "images\\301.png",
         "description": "Depending on the direction of the arrow, you can link the triggerable (damage) and the triggering target (spell) skills at the same time.",
         "tags": [
             "Strike"
@@ -3647,7 +3647,7 @@
     },
     {
         "name": "Activate Totem When Using Enhancement Skills",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_02.png",
+        "image1": "images\\302.png",
         "description": "Depending on the direction of the arrow, you can connect the triggerable (enhanced) and the triggering target (totem) skills at the same time.",
         "tags": [
             "Attack Enhance",
@@ -3658,7 +3658,7 @@
     },
     {
         "name": "Crush",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\303.png",
         "description": "Can be linked with Damage Skills",
         "tags": [
             "Strike"
@@ -3668,7 +3668,7 @@
     },
     {
         "name": "Imperfect Link Rune (Blue)",
-        "image": "http://www.vhpg.com/t/undecember/LinkSkill_Bg_Intellect_01.png",
+        "image1": "images\\304.png",
         "description": "An imperfect Link Rune.",
         "tags": [],
         "mana_cost": "",

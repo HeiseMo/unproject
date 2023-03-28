@@ -31,6 +31,7 @@ Russian blue pattern:
 svg g {
   fill: #3e3f3f;
   fill-opacity: 1;
+  z-index: -1;
 }
 svg g:hover {
   fill: #7bf6b9;
