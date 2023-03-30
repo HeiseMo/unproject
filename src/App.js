@@ -28,7 +28,8 @@ function App() {
   const [selectedOption, setSelectedOption] = useState(null);
   const [open, setOpen] = useState(false);
   const [gridInfo, setGridInfo] = useState([]);
-
+  const [selectedHexagons, setSelectedHexagons] = useState([]);
+  const [selectedRune, setSelectedRune] = useState(null);
   useEffect(() => {
     fetch('hexagonMap.json')
       .then((response) => response.json())
@@ -50,7 +51,7 @@ function App() {
 
   const hexagonSize = { x: 8, y: 8 };
   const hexImgSize = { x: 7, y: 8 };
-  const viewBox = `-50 -50 100 100`;
+  const viewBox = `-70 -70 140 140`;
 
   //Write an algo to generate the hexagonData array
   const handleClick = (event) => {
@@ -62,17 +63,21 @@ function App() {
     if (fill) {
       runeList.map((rune, index) => {
         if (index == fill) {
-          setSelectedOption({
+          setSelectedRune({
             label: rune.name,
             value: index,
             image1: rune.image1,
             description: rune.description,
             tags: rune.tags,
             mana_cost: rune.mana_cost,
-            cooldown: rune.cooldown,});
+            cooldown: rune.cooldown,
+          });
         }
+        setSelectedHexagons((prevSelectedHexagons) => [...prevSelectedHexagons, { hexagon: clickedHexagon, option: selectedOption }]);
       });
       /*i might need to store the details for the rune info in a different state so the runes are not filled when you click on a different one
+      *****Maybe if you hover over it you see the rune info and if you click on it you can select it
+      
       const updatedGridInfo = gridInfo.map((hex) => {
         if (hex.fill === fill) {
           return { ...hex, fill: `` };
@@ -82,7 +87,7 @@ function App() {
     } else {
       setOpen(true);
     }
-    
+
   };
   const handleClose = (event, reason) => {
     if (reason === 'clickaway') {
@@ -109,7 +114,8 @@ function App() {
           description: rune.description,
           tags: rune.tags,
           mana_cost: rune.mana_cost,
-          cooldown: rune.cooldown,});
+          cooldown: rune.cooldown,
+        });
       }
     });
 
@@ -146,6 +152,13 @@ function App() {
             defaultValue={selectedOption}
             onChange={setSelectedOption}
             options={runeListWithIndex}
+            styles={{
+              control: (baseStyles, state) => ({
+                ...baseStyles,
+                backgroundColor: state.isFocused ? '#1f1f1f' : '#1f1f1f',
+                color: state.isFocused ? "#1f1f1f" : "#1f1f1f",
+              }),
+            }}
           />
 
         </div>
@@ -159,8 +172,8 @@ function App() {
             )}
           </div>
           <div className='grid'>
-            <HexGrid width={1200} height={1200} viewBox={viewBox}>
-              <Layout size={hexagonSize} flat={false} spacing={1.1} origin={{ x: 15, y: -40 }}>
+            <HexGrid width={1800} height={1200} viewBox={viewBox}>
+              <Layout size={hexagonSize} flat={false} spacing={1.2} origin={{ x: 15, y: -40 }}>
                 {gridInfo.map((hex, index) => (
                   <Hexagon
                     key={index}
@@ -182,7 +195,9 @@ function App() {
           </div>
           <div className='runeInfo'>
             {selectedOption ? (
-              <InfoBox info={selectedOption}/>
+              <InfoBox info={selectedOption} />
+            ) : selectedRune ? (
+              <InfoBox info={selectedRune} />
             ) : (
               <h1>Select a Rune</h1>
             )}
